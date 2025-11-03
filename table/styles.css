@@ -11,8 +11,6 @@
     --clr-button-light-hover: #ddd;
     --clr-white: #fff;
     --clr-overlay: rgba(0,0,0,0.6);
-    --clr-blue-button: #0078D4;
-    --clr-blue-button-hover: #005A9E;
     --clr-button-dark: var(--clr-text-dark);
     --radius-pill: 9999px;
 }

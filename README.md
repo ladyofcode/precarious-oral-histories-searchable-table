@@ -22,4 +22,4 @@ I created a script to generate a new data file from a CSV.
 3. Inside the generator subfolder, double-click generator.html to open it in the browser.
 4. Upload the CSV.
 5. Save the data.js file produced.
-6. Replace the data.js in the shared hosting with the newly generated one.
+6. Replace the data.js in the shared hosting with the newly generated one. It must be named data.js.
