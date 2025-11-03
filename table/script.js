@@ -59,9 +59,18 @@ function generateTableRows() {
 
   tbody.innerHTML = '';
 
-  window.tableRowData.forEach((rowData, index) => {
+  const indices = window.tableRowData.map((_, index) => index);
+  
+  indices.sort((a, b) => {
+    const holderA = (window.tableRowData[a].collectionHolder || '').toLowerCase().trim();
+    const holderB = (window.tableRowData[b].collectionHolder || '').toLowerCase().trim();
+    return holderA.localeCompare(holderB);
+  });
+
+  indices.forEach((originalIndex) => {
+    const rowData = window.tableRowData[originalIndex];
     const row = document.createElement('tr');
-    row.setAttribute('onclick', `showPopup(${index})`);
+    row.setAttribute('onclick', `showPopup(${originalIndex})`);
     
     const cells = [
       rowData.contributor || '',
