@@ -79,7 +79,7 @@ function generateTableRows() {
       
       const fullText = String(cellValue || '').trim();
       const displayText = cellIndex === 3 || cellIndex === 4 
-        ? truncateText(fullText, 80)
+        ? truncateText(fullText, 120)
         : truncateText(fullText, 100);
       
       span.setAttribute('data-fulltext', fullText);
@@ -98,7 +98,7 @@ document.addEventListener("DOMContentLoaded", function() {
   
   document.getElementById("popup").style.display = "none";
   
-  document.getElementById('acceptBtn').addEventListener('click', function() {
+  document.getElementById('acceptButton').addEventListener('click', function() {
     document.getElementById('termsModal').style.display = 'none';
   });
   

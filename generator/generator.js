@@ -112,24 +112,24 @@ document.getElementById('csvFile').addEventListener('change', function (e) {
             document.getElementById('status').innerHTML =
                 '<div class="status success">✓ CSV file loaded successfully! Found ' +
                 (parsedData.length - 6) + ' data rows.</div>';
-            document.getElementById('generateBtn').disabled = false;
+            document.getElementById('generateButton').disabled = false;
         } catch (error) {
             document.getElementById('status').innerHTML =
                 '<div class="status error">Error: ' + escapeHtml(error.message) + '</div>';
-            document.getElementById('generateBtn').disabled = true;
+            document.getElementById('generateButton').disabled = true;
         }
     };
 
     reader.onerror = function () {
         document.getElementById('status').innerHTML =
             '<div class="status error">Error reading file</div>';
-        document.getElementById('generateBtn').disabled = true;
+        document.getElementById('generateButton').disabled = true;
     };
 
     reader.readAsText(file);
 });
 
-document.getElementById('generateBtn').addEventListener('click', async function () {
+document.getElementById('generateButton').addEventListener('click', async function () {
     const originalButton = this;
     const originalText = originalButton.textContent;
     
