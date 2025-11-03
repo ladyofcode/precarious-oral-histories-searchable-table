@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Table Generator</title>
+    <link rel="stylesheet" href="generator.css">
+</head>
+<body>
+    <h1>Searchable Table Generator</h1>
+    <p>Upload your <code>data.csv</code> file to generate the searchable HTML table.</p>
+
+    <div class="container">
+        <h2>Upload CSV File</h2>
+        <input type="file" id="csvFile" accept=".csv" />
+        <div id="status"></div>
+    </div>
+
+    <div class="container">
+        <button id="generateBtn" disabled>Generate data.js File</button>
+        <div id="downloadStatus"></div>
+    </div>
+
+    <script src="generator.js"></script>
+</body>
+</html>

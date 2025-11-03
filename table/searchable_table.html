@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Searchable Table</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div id="termsModal">
+        <div id="termsContent">
+            <h2>License Warning</h2>
+            <div class="terms-text">
+                <p>This database contains a list of precarious oral history collections in Victoria with information
+                    about each collection as reported to the Identifying Precarious Victorian Oral History Collections
+                    Project between May–September 2025.</p>
+                <p>This database raises awareness of the extent and condition of precarious oral history collections in
+                    Victoria. Many listed collections are not accessible.</p>
+                <p>You do not have permission to reproduce or disseminate any information in this database.</p>
+                <p>There are many other oral history collections in Victoria that have not been identified by this
+                    project and are not included in this database.</p>
+                <p>Precarious collections are at risk of not surviving. If you wish to assist in any future efforts to
+                    support precarious oral history collections, please <a
+                        href="https://precariousoralhistories.com/contact/" target="_blank"
+                        rel="noopener noreferrer">contact us</a>.</p>
+            </div>
+            <button id="acceptBtn">Accept</button>
+        </div>
+    </div>
+
+    <h1>A Database Identifying Precarious Victorian Oral History Collections</h1>
+
+    <div id="tagCloud"><strong>Filter by subjects</strong><br><span class="tag-filter"
+            data-tag="Activism, Politics and Social Change">Activism, politics and social change</span> <span
+            class="tag-filter" data-tag="Arts and Cultural Life">Arts and cultural life</span> <span class="tag-filter"
+            data-tag="Culturally and Linguistically Diverse Communities">Culturally and linguistically diverse
+            communities</span> <span class="tag-filter" data-tag="Disability">Disability</span> <span class="tag-filter"
+            data-tag="Education">Education</span> <span class="tag-filter"
+            data-tag="Environment, Place, and Natural Disasters">Environment, place, and natural disasters</span> <span
+            class="tag-filter" data-tag="Family and Family History">Family and family history</span> <span
+            class="tag-filter" data-tag="Farming and Agriculture">Farming and agriculture</span> <span
+            class="tag-filter" data-tag="First Nations People">First Nations people</span> <span class="tag-filter"
+            data-tag="Folklore">Folklore</span> <span class="tag-filter" data-tag="Health and Welfare">Health and
+            welfare</span> <span class="tag-filter" data-tag="Industry, Business, and Commerce">Industry, business, and
+            commerce</span> <span class="tag-filter" data-tag="LGBTIQA+ History">LGBTIQA+ history</span> <span
+            class="tag-filter" data-tag="Life History/Story Interview">Life history/story interview</span> <span
+            class="tag-filter" data-tag="Local Communities and Local Histories">Local communities and local
+            histories</span> <span class="tag-filter" data-tag="Migration">Migration</span> <span class="tag-filter"
+            data-tag="Refugees and Asylum Seekers">Refugees and asylum seekers</span> <span class="tag-filter"
+            data-tag="Relationships and Sexuality">Relationships and sexuality</span> <span class="tag-filter"
+            data-tag="Religion and Spirituality">Religion and spirituality</span> <span class="tag-filter"
+            data-tag="Rural and Regional Life">Rural and regional life</span> <span class="tag-filter"
+            data-tag="Science, Technology and Innovation">Science, technology and innovation</span> <span
+            class="tag-filter" data-tag="Specific Life Stages (Childhood, Youth, Midlife, Later Life)">Specific life
+            stages (childhood, youth, midlife, later life)</span> <span class="tag-filter"
+            data-tag="Sport and Leisure">Sport and leisure</span> <span class="tag-filter"
+            data-tag="Unemployment and Underemployment">Unemployment and underemployment</span> <span class="tag-filter"
+            data-tag="War">War</span> <span class="tag-filter" data-tag="Women">Women</span> <span class="tag-filter"
+            data-tag="Work">Work</span> <span class="tag-filter" data-tag="Other">Other</span> <br><button
+            id="clearTagFilter">Clear subject filter</button>
+    </div>
+
+    <input type="text" id="searchInput" placeholder="Search the whole table...">
+
+
+
+    <div id="popup">
+        <div id="popupHeader">
+            <button onclick="document.getElementById('popup').style.display='none'">Close</button>
+        </div>
+        <div id="popupContent"></div>
+    </div>
+
+    <table id="dataTable">
+        <thead>
+            <tr>
+                <th>Contributor</th>
+                <th>Collection holder</th>
+                <th>Collection</th>
+                <th>Collection subjects</th>
+                <th>Collection description</th>
+                <th>ID</th>
+            </tr>
+            <tr>
+                <th><input type="text" class="col-filter" data-col="0" placeholder="Search..." /></th>
+                <th><input type="text" class="col-filter" data-col="1" placeholder="Search..." /></th>
+                <th><input type="text" class="col-filter" data-col="2" placeholder="Search..." /></th>
+                <th><input type="text" class="col-filter" data-col="3" placeholder="Search..." /></th>
+                <th><input type="text" class="col-filter" data-col="4" placeholder="Search..." /></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Table rows will be generated dynamically from JSON data -->
+        </tbody>
+    </table>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+
+</body>
+
+</html>
