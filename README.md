@@ -2,11 +2,13 @@
 
 ## Folder structure
 
-### `table/` folder (upload to web server)
+### `table/` folder (upload everything to web server)
 - **searchable_table.html** - Main table page
-- **data.js** - Generated data file (replaced when updating)
+- **data.js** - Generated data file
 - **script.js** - JavaScript functionality
 - **styles.css** - Styling
+
+When regenerating from a new dataset, only data.js gets replaced. All the other files in the folder on your server stay put and don't change.
 
 ### `generator/` folder (local tool)
 - **generator.html** - Open in browser to generate data.js
