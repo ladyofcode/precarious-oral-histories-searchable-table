@@ -54,7 +54,7 @@ window.tableData = [
     "Collection holder category": "Association, Club or Society",
     "Contact person name": "Marcus Mulcahy",
     "Contact person email": "marcusmulcahy@gmail.com",
-    "Collection locations": "Organisation's Premises, Museum",
+    "Collection locations": "Organisation's Premises",
     "Collection suburbs": "Chelsea",
     "Collection postcodes": "3196",
     "Collection": "Untitled",
@@ -109,7 +109,7 @@ window.tableData = [
     "Focus on first nations": "No",
     "Collection places": "Port Melbourne, South Melbourne",
     "Collection description": "110 cassette tapes created by the former South Melbourne and Port Melbourne Historical Society. They did not merge with any other society. The majority of recordings are from older members of the community describing their life and key events in the area. About half seem to be recorded presentations at the historical society meetings, not interviews. Some of the cassette tapes have dates and include the name of the speaker of interviewer/s but there is limited metadata available about the interview beyond the name of the speaker. \nIn addition, 20 digital mp3 recordings on USBs in a drawer in Heritage Centre staff room. File name includes the name of interviewee and year, sometimes full date. Some of the names are the same as on the cassette tapes.  The digital tapes seem to be mostly interviewed by a local history librarian and constitute a separate project to the majority of the cassette tapes by the South Melbourne and Port Melbourne historical society. Only two of the digital interviews have slates so the interviewer is mostly unknown.",
-    "Collection purpose": "Record memories of older society and key community members to capture the lived experiences, not generally recorded in published books. There are also people speaking on historical subjects e.g. 'Health Inspection in Victoria 1800-1980\" \"Prince of Buskers - Frank Ottenson\" \"Interview Mr Vin McNamara 85 year old 176 Heath Street Port Melbourne 22/10/1989 (1 1/8 sides)\" \"Melbourne and Suburbs South Melbourne, Richmond, Yarra River, Life on the Goldfields, Garbage disposal and sewage industrial waste\", \"Aboriginals of SM. Marilyn Truscott\", \"Chinese in Australia guest speaker: Moral Loh 9 December 1982\"",
+    "Collection purpose": "Record memories of older society and key community members to capture the lived experiences, not generally recorded in published books. There are also people speaking on historical subjects e.g. 'Health Inspection in Victoria 1800-1980\" \"Prince of Buskers - Frank Ottenson\" \"Interview Mr Vin McNamara 85 year old 176 Heath Street Port Melbourne 22/10/1989 (1 1/8 sides)\" \"Melbourne and Suburbs South Melbourne, Richmond, Yarra River, Life on the Goldfields, Garbage disposal and sewage industrial waste\", \"Aboriginals of SM. Marilyn Truscott\", \"Chinese in Australia guest speaker: Morag Loh 9 December 1982\"",
     "Number of interviews": "130",
     "Hours": "80",
     "Average interview length": "50 minutes",
@@ -124,7 +124,7 @@ window.tableData = [
     "Physical condition": "Varies across the collection",
     "Audio quality": "Okay",
     "Consent forms": "No",
-    "Consent forms asked interviewees about future access or use": "no consent forms exist",
+    "Consent forms asked interviewees about future access or use": "Other: no consent forms exist",
     "Copyright status": "Unsure",
     "Transcripts": "No interviews have transcripts",
     "Timed summaries": "No timed summaries",
@@ -135,7 +135,7 @@ window.tableData = [
     "Catalogue/collection listing": "No",
     "Link to online catalogue/finding aid": "",
     "Outputs created by collection holder": "No current outputs that I am aware of however library staff member whose role includes curating and providing guides in our popular Guided Walks program is interested in hearing the 1985 tape \"How Emerald Hill was saved\" with guest speaker Reg Macey at a 11 July South Melbourne - Port Melbourne Histocial and Preservation Society meeting as they are doing a walking tour around public housing \"Housing the People of South Melbourne\" later in the year.",
-    "Any other information": "These tapes were found in an unmarked drawer in a locked 'Local History Room' in Port Melbourne Library/town Hall complex. The room suffered from dampness three years ago when the roof of the Town Hall roof collapsed. The next 6 months we'll be launching a 'digitisation station' for cassette tapes. This will be available to the public to convert cassettes from analogue to digital. We aim to make reasonable efforts to identify and contact rights holders before converting making oral histories accessible online e.g., through raising with three existing historical societies in Port Phillip, through library and historical society newsletters. the online catalogue will have takedown provisions. Then convert the tapes to digital and make them accessible on a new module Spydus Archives, which will be searchable on the public library catalogue. The City of Port Phillip Council currently lacks a long-term digital preservation strategy. Conversations with the IT team indicate that establishing sustainable infrastructure would be a long-term project and may require investment beyond the library’s existing capacity. \n\nThe launch and maintenance of an accessible digital collection requires: Dedicated staff time for rights clearance, metadata creation, and cataloguing, ongoing maintenance of digital files and public access systems as well as a sustainable model for curation and care of growing digital content \n\nWithout increased staff support or collaboration across Council departments (e.g. with Records, IT and state and national bodies, the risk of neglect or deterioration of the digital collection remains significant. \n\nAs convenor of the Local Studies Special Interest Group, I am coordinating a professional visit to the State Library of Victoria’s Digitisation area in September. This visit aims to build sector knowledge around scalable and sustainable practices for community-based digitisation projects. Insights from this tour will inform local advocacy and planning."
+    "Any other information": "These tapes were found in an unmarked drawer in a locked 'Local History Room' in Port Melbourne Library/town Hall complex. The room suffered from dampness three years ago when the roof of the Town Hall roof collapsed. The next 6 months we'll be launching a 'digitisation station' for cassette tapes. This will be available to the public to convert cassettes from analogue to digital. We aim to make reasonable efforts to identify and contact rights holders before converting making oral histories accessible online e.g., through raising with three existing historical societies in Port Phillip, through library and historical society newsletters. the online catalogue will have takedown provisions. Then convert the tapes to digital and make them accessible on a new module Spydus Archives, which will be searchable on the public library catalogue. Work is being done on the development of a long-term digital preservation strategy and as advised by the IT team will require investment beyond the library’s existing capacity.\n \nThe launch and maintenance of an accessible digital collection requires: Dedicated staff time for rights clearance, metadata creation, and cataloguing, ongoing maintenance of digital files and public access systems as well as a sustainable model for curation and care of growing digital content. Without increased staff support or collaboration across Council departments (e.g. with Records, IT and state and national bodies, the risk of neglect or deterioration of the digital collection remains significant. As convenor of the Local Studies Special Interest Group, I am coordinating a professional visit to the State Library of Victoria’s Digitisation area in September. This visit aims to build sector knowledge around scalable and sustainable practices for community-based digitisation projects. Insights from this tour will inform local advocacy and planning."
   },
   {
     "Id": "4",
@@ -149,7 +149,7 @@ window.tableData = [
     "Collection locations": "Organisation's Premises",
     "Collection suburbs": "Glen Iris",
     "Collection postcodes": "3146",
-    "Collection": "Tapes of Talks to PPPG about ealry Victorian history",
+    "Collection": "Tapes of Talks to PPPG about early Victorian history",
     "Collection creater (if different from current collection holder)": "",
     "Collection subjects": "Arts and Cultural Life, Culturally and Linguistically Diverse Communities, Education, Environment, Place, and Natural Disasters, Family and Family History, First Nations People, Local Communities and Local Histories, Migration, Rural and Regional Life, Women",
     "Focus on first nations": "No",
@@ -181,7 +181,7 @@ window.tableData = [
     "Catalogue/collection listing": "No",
     "Link to online catalogue/finding aid": "",
     "Outputs created by collection holder": "",
-    "Any other information": "Note that the are NOT personal interviews. they are recordings of addresses made to the Group by professional historians and family history researchers about topics relating to the period before 1851."
+    "Any other information": "Note that the are NOT personal interviews. They are recordings of addresses made to the Group by professional historians and family history researchers about topics relating to the period before 1851."
   },
   {
     "Id": "5",
@@ -226,7 +226,7 @@ window.tableData = [
     "Link if collection is available online": "",
     "Catalogue/collection listing": "No",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "‘Anti-war veteran activism from Vietnam to the War on Terror’, Challenging Anzac, NewSouth, 2026, forthcoming \n\n'\"We, to them, are their heroes\": narratives of rescue in white Australian veterans' memories of the Vietnamese', Australian Journal of Politics & History (2025). https://doi.org/10.1111/ajph.13050 \n\n'Healing Journeys: Veterans, Trauma, and the Return to Vietnam' Journal of American History, 110:1 (June 2023): 82-107. https://doi.org/10.1093/jahist/jaad094 \n\n'Veteran Reflections: Legacies of War in Vietnam at Peace', in The Vietnam War in the Pacific World, eds. Brian Cuddy and Frederik Lovegall, University of North Carolina Press, November 2022. \n\n'Why soldiers commit war crimes – and what we can do about it', Lessons from History: Leading Historians Tackle Australia's Greatest Challenges, eds. Carolyn Holbrook, David Lowe, and Lyndon Megarrity, New South, July 2022.\n\nReturn to Vietnam: An Oral History of American and Australian Veterans' Journeys (Cambridge University Press, 2021) \n\n'(Un)naming: Agency, Anonymity, and Ethics in Oral Histories with Veteran-Narrators', Oral History Review, 48:1 (2021), online publication 19 February 2021. https://doi.org/10.1080/00940798.2021.1885982 \n\n‘“We went and did an Anzac job”: Memory, myth, and the Anzac Digger in Vietnam’, Australian Journal of Politics & History, 64:3 (October 2018): 480-97. https://doi.org/10.1111/ajph.12512\n\nMEDIA\n‘Australia and the Spectre of War – from Vietnam to Today’, ABC Big Ideas, 20 May 2025. https://www.abc.net.au/listen/programs/bigideas/australia-and-the-spectre-of-war-from-vietnam-to-today-/10523 8104 \n\n‘Friday Essay - “War has made me a pacifist”: Why are we so reluctant to acknowledge Australia’s anti-war veterans?’, The Conversation, 24 April 2025. \nhttps://theconversation.com/friday-essay-war-has-made-me-a-pacifist-why-are-we-so-reluctant-to-acknowledge-a ustralias-anti-war-veterans-253530\n\n‘Vets returning to Vietnam’, ABC Radio Nightlife, 17 December 2024. https://www.abc.net.au/listen/programs/nightlife/nightlife-history---vets-returning-to-vietnam/104738458 \n\n'The Myths and Meaning Behind Long Tan Day in Australia - and in Vietnam', Australian Policy History, 16 August 2023. https://aph.org.au/2023/08/the-myths-and-meaning-behind-long-tan-day-in-australia-and-in-vietnam/ \n\nOur Vietnam War, ABC documentary, 15-29 August 2023. https://iview.abc.net.au/show/our-vietnam-war\n\n'Echoes of Vietnam: Counterinsurgency, \"warrior hero\" culture, and war crimes in Afghanistan', Australian Policy and History, 24 November 2020. https://aph.org.au/2020/11/echoes-of-vietnam-counterinsurgency-warrior-hero-culture-and-war-crimes-in-afghanistan/ \n\n'What Spike Lee’s ‘Da 5 Bloods’ gets wrong about veterans returning to Vietnam', The Conversation, 15 July 2020. https://theconversation.com/what-spike-lees-da-5-bloods-gets-wrong-about-veterans-returning-to-vietnam-142558.\n\n‘Soldier Recognition, Trauma, and the Australian War Memorial’, Australian Policy and History, 26 November 2019. http://aph.org.au/soldier-recognition/ \n\n'The battle over Long Tan’s memory – a perspective from Việt Nam', The Conversation, 18 August 2016. https://theconversation.com/the-battle-over-long-tans-memory-a-perspective-from-viet-nam-64121",
+    "Outputs created by collection holder": "‘Anti-war veteran activism from Vietnam to the War on Terror’, Challenging Anzac, NewSouth, 2026, forthcoming ;\n\n'\"We, to them, are their heroes\": narratives of rescue in white Australian veterans' memories of the Vietnamese', Australian Journal of Politics & History (2025). https://doi.org/10.1111/ajph.13050 ;\n\n 'Healing Journeys: Veterans, Trauma, and the Return to Vietnam' Journal of American History, 110:1 (June 2023): 82-107. https://doi.org/10.1093/jahist/jaad094 ; \n\n'Veteran Reflections: Legacies of War in Vietnam at Peace', in The Vietnam War in the Pacific World, eds. Brian Cuddy and Frederik Lovegall, University of North Carolina Press, November 2022. ;\n\n'Why soldiers commit war crimes – and what we can do about it', Lessons from History: Leading Historians Tackle Australia's Greatest Challenges, eds. Carolyn Holbrook, David Lowe, and Lyndon Megarrity, New South, July 2022. ; \n\nReturn to Vietnam: An Oral History of American and Australian Veterans' Journeys (Cambridge University Press, 2021) ; \n\n'(Un)naming: Agency, Anonymity, and Ethics in Oral Histories with Veteran-Narrators', Oral History Review, 48:1 (2021), online publication 19 February 2021. https://doi.org/10.1080/00940798.2021.1885982 ; \n\n‘“We went and did an Anzac job”: Memory, myth, and the Anzac Digger in Vietnam’, Australian Journal of Politics & History, 64:3 (October 2018): 480-97. https://doi.org/10.1111/ajph.12512 ; \n\nMEDIA:\n‘Australia and the Spectre of War – from Vietnam to Today’, ABC Big Ideas, 20 May 2025. https://www.abc.net.au/listen/programs/bigideas/australia-and-the-spectre-of-war-from-vietnam-to-today-/10523 8104 ; \n\n‘Friday Essay - “War has made me a pacifist”: Why are we so reluctant to acknowledge Australia’s anti-war veterans?’, The Conversation, 24 April 2025. \nhttps://theconversation.com/friday-essay-war-has-made-me-a-pacifist-why-are-we-so-reluctant-to-acknowledge-a ustralias-anti-war-veterans-253530 ; \n\n‘Vets returning to Vietnam’, ABC Radio Nightlife, 17 December 2024. https://www.abc.net.au/listen/programs/nightlife/nightlife-history---vets-returning-to-vietnam/104738458 ; \n\n'The Myths and Meaning Behind Long Tan Day in Australia - and in Vietnam', Australian Policy History, 16 August 2023. https://aph.org.au/2023/08/the-myths-and-meaning-behind-long-tan-day-in-australia-and-in-vietnam/ ; \n\nOur Vietnam War, ABC documentary, 15-29 August 2023. https://iview.abc.net.au/show/our-vietnam-war ; \n\n'Echoes of Vietnam: Counterinsurgency, \"warrior hero\" culture, and war crimes in Afghanistan', Australian Policy and History, 24 November 2020. https://aph.org.au/2020/11/echoes-of-vietnam-counterinsurgency-warrior-hero-culture-and-war-crimes-in-afghanistan/ ; \n\n'What Spike Lee’s ‘Da 5 Bloods’ gets wrong about veterans returning to Vietnam', The Conversation, 15 July 2020. https://theconversation.com/what-spike-lees-da-5-bloods-gets-wrong-about-veterans-returning-to-vietnam-142558. ; \n\n‘Soldier Recognition, Trauma, and the Australian War Memorial’, Australian Policy and History, 26 November 2019. http://aph.org.au/soldier-recognition/ ; \n\n'The battle over Long Tan’s memory – a perspective from Việt Nam', The Conversation, 18 August 2016. https://theconversation.com/the-battle-over-long-tans-memory-a-perspective-from-viet-nam-64121 .",
     "Any other information": ""
   },
   {
@@ -258,7 +258,7 @@ window.tableData = [
     "Audio or audiovisual format": "Audio-only",
     "Analogue or digital": "Digital-only",
     "Audio format": "Digital Audio Files (WAV, mp3, etc)",
-    "Audiovisual format": "Digital Files (MP4, mov, etc). If \"Digital Files\", please list digital file formats if known: MP3, MP4",
+    "Audiovisual format": "Digital Files (MP4, mov, etc): MP3, MP4",
     "Physical condition": "Good condition, Varies across the collection",
     "Audio quality": "Good",
     "Consent forms": "Yes",
@@ -292,7 +292,7 @@ window.tableData = [
     "Collection subjects": "Activism, Politics and Social Change, Culturally and Linguistically Diverse Communities, Family and Family History, First Nations People, Industry, Business, and Commerce, Local Communities and Local Histories, Migration, War, Women, Work",
     "Focus on first nations": "Partially",
     "Collection places": "Brimbank, Hobsons Bay, Hume, Maribyrnong, Melton, Moonee Valley, Moorabool, Weribee and Wyndham.",
-    "Collection description": "The Museum’s oral history collection comprises over 700 recorded interviews on cassette tape, along with printed transcripts and, in some cases, summaries. Key themes explored in the collection include the role ofwomen, migration, and local industries such as munitions work, the Sunshine Harvester Works, and chaff mills. Notable subjects include The Life and Times of George Seelaf and 'The Lifeblood of Footscray,' project which focuses on the meat industry.",
+    "Collection description": "The Museum’s oral history collection comprises over 700 recorded interviews on cassette tape, along with printed transcripts and, in some cases, summaries. Key themes explored in the collection include the role of women, migration, and local industries such as munitions work, the Sunshine Harvester Works, and chaff mills. Notable subjects include The Life and Times of George Seelaf and 'The Lifeblood of Footscray,' project which focuses on the meat industry.",
     "Collection purpose": "The purpose of the oral history collection at Melbourne’s Living Museum of the West is to document and preserve the lived experiences, memories, and voices of communities in Melbourne’s west. As a community-driven ecomuseum, the Museum is committed to capturing the region’s social, industrial, and environmental histories through stories and knowledge that are often intangible and otherwise at risk of being lost. The oral history collection plays an important role in this mission, serving as a key component of the Museum’s evolving public collection. By gathering first-hand accounts (through interviews, transcripts, and recordings) the Museum aims to support communities and audiences to meaningfully connect with, reflect on, and better understand the past, present, and future of this diverse and dynamic region.",
     "Number of interviews": "750",
     "Hours": "",
@@ -318,7 +318,7 @@ window.tableData = [
     "Link if collection is available online": "",
     "Catalogue/collection listing": "Partially",
     "Link to online catalogue/finding aid": "https://ehive.com/objects?facet=account_name_facet%3AMelbourne%27s+Living+Museum+of+the+West&facet =object_type_facet%3ASound+Recording",
-    "Outputs created by collection holder": "Melbourne’s Living Museum of the West has drawn on its oral history collection across more than four decades of community-engaged practice. The collection has informed a wide range of outputs, including books, exhibitions, public programs, interpretive materials, and digital resources. It has also been accessed by external researchers, artists, and community groups for independent projects. Key examples inlcude \"The Lifeblood of Footscray: Working Lives at the Angliss Meatworks (1986),\" edited by Chris Healy, a publication developed directly from oral history interviews, and the Pipemakers Park Audio Trail, which features edited excerpts from interviews and is integrated into interpretive signage throughout Pipemakers Park in Maribyrnong. The Museum’s collection has also supported numerous artist-led and community history projects, many of whichhave generated pamphlets, audio works, and exhibitions. Given the community-driven nature of the Museum and the longstanding use of oral histories in its programming, the collection has been foundational to the Museum’s creative and historical output for more than forty years.",
+    "Outputs created by collection holder": "Melbourne’s Living Museum of the West has drawn on its oral history collection across more than four decades of community-engaged practice. The collection has informed a wide range of outputs, including books, exhibitions, public programs, interpretive materials, and digital resources. It has also been accessed by external researchers, artists, and community groups for independent projects. Key examples inlcude \"The Lifeblood of Footscray: Working Lives at the Angliss Meatworks (1986),\" edited by Chris Healy, a publication developed directly from oral history interviews, and the Pipemakers Park Audio Trail, which features edited excerpts from interviews and is integrated into interpretive signage throughout Pipemakers Park in Maribyrnong. The Museum’s collection has also supported numerous artist-led and community history projects, many of which have generated pamphlets, audio works, and exhibitions. Given the community-driven nature of the Museum and the longstanding use of oral histories in its programming, the collection has been foundational to the Museum’s creative and historical output for more than forty years.",
     "Any other information": ""
   },
   {
@@ -410,7 +410,7 @@ window.tableData = [
     "Link if collection is available online": "",
     "Catalogue/collection listing": "No",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "https://bridges.monash.edu/articles/thesis/We_live_here_too_gender_class_and_ethnicity_in_an_oral_history_of_w omen_in_the_Latrobe_Valley/22273783?file=39613387",
+    "Outputs created by collection holder": "https://bridges.monash.edu/articles/thesis/We_live_here_too_gender_class_and_ethnicity_in_an_oral_history_of_women_in_the_Latrobe_Valley/22273783?file=39613387",
     "Any other information": ""
   },
   {
@@ -480,7 +480,7 @@ window.tableData = [
     "Collection purpose": "To ensure that the rich history of how Victoria's forests were managed is not lost",
     "Number of interviews": "30",
     "Hours": "",
-    "Average interview length": "1 hour",
+    "Average interview length": "",
     "Time of recording": "1980s, 1990s",
     "Collection status": "Ongoing",
     "Language(s)": "English (Australian)",
@@ -508,7 +508,7 @@ window.tableData = [
   {
     "Id": "12",
     "Contributor": "Bryan John Power",
-    "Collection holder": "As above",
+    "Collection holder": "Bryan John Power",
     "Collection holder email": "bryanp2@bigpond.com",
     "Collection holder website": "",
     "Collection holder category": "Individual",
@@ -568,7 +568,7 @@ window.tableData = [
     "Collection subjects": "Activism, Politics and Social Change, Arts and Cultural Life, Culturally and Linguistically Diverse Communities, Family and Family History, First Nations People, Folklore, Local Communities and Local Histories, Migration, Refugees and Asylum Seekers, Specific Life Stages (Childhood, Youth, Midlife, Later Life), War, Women",
     "Focus on first nations": "No",
     "Collection places": "Victoria, Melbourne's northern suburbs",
-    "Collection description": "Archive if about 250-300 interviews documenting social experience, experiences of place, policy and war over past 50 years.\n50 interviews relate to the Italian Australian diaspora in Melbourne.",
+    "Collection description": "Archive of about 250-300 interviews documenting social experience, experiences of place, policy and war over past 50 years.\n50 interviews relate to the Italian Australian diaspora in Melbourne.",
     "Collection purpose": "Collected as part of various placemaking projects",
     "Number of interviews": "",
     "Hours": "",
@@ -639,7 +639,7 @@ window.tableData = [
     "Collection publicly accessible": "Available Online",
     "Link if collection is available online": "https://www.connectedlibraries.org.au/oral-histories/",
     "Catalogue/collection listing": "Yes",
-    "Link to online catalogue/finding aid": "https://cclc.libsvic.ent.sirsidynix.net.au/client/en_AU/cclc/search/results?qu=oral+history+recording&rm=LOCAL +HISTORY3%7C%7C%7C1%7C%7C%7C6%7C%7C%7Ctrue&te=ASSET",
+    "Link to online catalogue/finding aid": "https://cclc.libsvic.ent.sirsidynix.net.au/client/en_AU/cclc/search/results?qu=oral+history+recording&rm=LOCAL+HISTORY3%7C%7C%7C1%7C%7C%7C6%7C%7C%7Ctrue&te=ASSET",
     "Outputs created by collection holder": "Several blog articles have been created using details found in these interviews.",
     "Any other information": ""
   },
@@ -686,7 +686,7 @@ window.tableData = [
     "Link if collection is available online": "https://victoriancollections.net.au/organisations/vision-australia?q=audio",
     "Catalogue/collection listing": "Partially",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "The Years Between: an oral history of RVIB 1866-1991.\nThanks for the Memories: stories from the past\n3RPH Turning Print into Sound",
+    "Outputs created by collection holder": "The Years Between: an oral history of RVIB 1866-1991.\nThanks for the Memories: stories from the past. \n3RPH Turning Print into Sound.",
     "Any other information": ""
   },
   {
@@ -732,7 +732,7 @@ window.tableData = [
     "Link if collection is available online": "",
     "Catalogue/collection listing": "No",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "PhD thesis \"Behind the Seams: A Social, Cultural and Economic History of Clothing Manufacturing in Victoria, Australia, c. 1945-1990\" \n\nConference Paper and (upcoming - under review) journal article in Labour History \"On and Off the Factory Floor: European migrant women as factory workers and outworkers in Victoria’s clothing manufacturing industry, 1945–1970\"",
+    "Outputs created by collection holder": "PhD thesis \"Behind the Seams: A Social, Cultural and Economic History of Clothing Manufacturing in Victoria, Australia, c. 1945-1990\". \n\nConference Paper and (upcoming - under review) journal article in Labour History \"On and Off the Factory Floor: European migrant women as factory workers and outworkers in Victoria’s clothing manufacturing industry, 1945–1970\".",
     "Any other information": ""
   },
   {
@@ -752,8 +752,8 @@ window.tableData = [
     "Collection subjects": "Family and Family History, Life History/Story Interview, Local Communities and Local Histories, Other: Open Day - activities and people",
     "Focus on first nations": "No",
     "Collection places": "Eldorado",
-    "Collection description": "Audio tapes of interviews\nVideos of local areas\nDVD compiled to tell a short history of El Dorado and its gold mining\nVideos of open days - activities and celebrations",
-    "Collection purpose": "Research for the book El Dorado Gold - an Australian story\nTelling of the local story available for viewing in the museum or to purchase Videoing of open days to be available on digital frame or online (if added0",
+    "Collection description": "Audio tapes of interviews, Videos of local areas, DVD compiled to tell a short history of El Dorado and its gold mining, Videos of open days - activities and celebrations",
+    "Collection purpose": "Research for the book El Dorado Gold - an Australian story. Telling of the local story available for viewing in the museum or to purchase. Videoing of open days to be available on digital frame or online (if added).",
     "Number of interviews": "",
     "Hours": "",
     "Average interview length": "1 hour",
@@ -802,7 +802,7 @@ window.tableData = [
     "Collection purpose": "Initial collection was tape recording from guest speakers at meetings. Then capturing stories from prominent residents, long term residents. To the current annual 15 Minutes of History daily talks each January videoed to be kept for generations.",
     "Number of interviews": "300",
     "Hours": "",
-    "Average interview length": "1 hour",
+    "Average interview length": "",
     "Time of recording": "1960s, 1970s, 1980s, 1990s, 2000s, 2010s, 2020s",
     "Collection status": "Ongoing",
     "Language(s)": "English",
@@ -894,7 +894,7 @@ window.tableData = [
     "Collection purpose": "The oral history interviews were collected as part of a PhD project held at La Trobe University and titled \"History and Collective Memory of the Italian Migrant Workers' Organisation FILEF in 1970s Melbourne\".",
     "Number of interviews": "27",
     "Hours": "",
-    "Average interview length": "1 hour",
+    "Average interview length": "",
     "Time of recording": "2000s",
     "Collection status": "Completed",
     "Language(s)": "Italian; English",
@@ -915,8 +915,8 @@ window.tableData = [
     "Collection publicly accessible": "Not Accessible",
     "Link if collection is available online": "",
     "Catalogue/collection listing": "Partially",
-    "Link to online catalogue/finding aid": "https://opal.latrobe.edu.au/articles/thesis/History_and_collective_memory_of_the_Italian_migrant_workers_organi sation_FILEF_in_1970s_Melbourne/21841941?file=38763813",
-    "Outputs created by collection holder": "Battiston, S. (2021). Historicising the Early Years of Nuovo Paese (1974–1981). In: Dewhirst, C., Scully, R. (eds) Voices of Challenge in Australia’s Migrant and Minority Press. Palgrave Studies in the History of the Media. Palgrave Macmillan, Cham. https://doi.org/10.1007/978-3-030-67330-7_8 \n\nBattiston, S. (2019) ‘Migrant Radicalism and Activism in Australia: The Transnational Experience of Pierina Pirisi’, Journal of Australian Studies, 43(2), pp. 160–173. doi: 10.1080/14443058.2019.1611621. \n\nBattiston, Simone, and Sabina Sestigiani. “Percorsi d’emigrazione e di militanza politica”. In Lontane da casa, edited by Stefano Luconi and Mario Varricchio. Torino: Accademia University Press, 2015. https://doi.org/10.4000/books.aaccademia.900. \n\nBattiston, Simone (2009), 'How the Italian-Australian left and its press viewed Il Globo', in IL GLOBO: 50 Years of an Italian Newspaper in Australia, edited by B. Mascitelli and S. Battiston, Ballan, Connor Court Publishing. \n\nBattiston, S. (2005) ‘ Salemi v MacKellar revisited: Drawing together the threads of a controversial deportation case’, Journal of Australian Studies, 28(84), pp. 1–10. doi: 10.1080/14443050509387986.",
+    "Link to online catalogue/finding aid": "https://opal.latrobe.edu.au/articles/thesis/History_and_collective_memory_of_the_Italian_migrant_workers_organisation_FILEF_in_1970s_Melbourne/21841941?file=38763813",
+    "Outputs created by collection holder": "Battiston, S. (2021). Historicising the Early Years of Nuovo Paese (1974–1981). In: Dewhirst, C., Scully, R. (eds) Voices of Challenge in Australia’s Migrant and Minority Press. Palgrave Studies in the History of the Media. Palgrave Macmillan, Cham. https://doi.org/10.1007/978-3-030-67330-7_8 ;\nBattiston, S. (2019) ‘Migrant Radicalism and Activism in Australia: The Transnational Experience of Pierina Pirisi’, Journal of Australian Studies, 43(2), pp. 160–173. doi: 10.1080/14443058.2019.1611621 ; \nBattiston, Simone, and Sabina Sestigiani. “Percorsi d’emigrazione e di militanza politica”. In Lontane da casa, edited by Stefano Luconi and Mario Varricchio. Torino: Accademia University Press, 2015. https://doi.org/10.4000/books.aaccademia.900 ; \nBattiston, Simone (2009), 'How the Italian-Australian left and its press viewed Il Globo', in IL GLOBO: 50 Years of an Italian Newspaper in Australia, edited by B. Mascitelli and S. Battiston, Ballan, Connor Court Publishing ; \nBattiston, S. (2005) ‘ Salemi v MacKellar revisited: Drawing together the threads of a controversial deportation case’, Journal of Australian Studies, 28(84), pp. 1–10. doi: 10.1080/14443050509387986.",
     "Any other information": "If possible, at some stage I wish to explore the possibility to deposit the collection in a public repository and (again, if possible) made it available to the public."
   },
   {
@@ -937,10 +937,10 @@ window.tableData = [
     "Focus on first nations": "No",
     "Collection places": "Altona, Truganina Explosives Reserve",
     "Collection description": "Oral History from people who lived and worked at the Truganina Explosives Reserve, Altona during the first half of the twentieth century. There are eleven oral recordings digitized.",
-    "Collection purpose": "Caption history, life and stories before we lost the people who held these stories. It was a local council initiative in conjunction with the renovation of the building on this historic site.",
+    "Collection purpose": "Capture history, life and stories before we lost the people who held these stories. It was a local council initiative in conjunction with the renovation of the building on this historic site.",
     "Number of interviews": "15",
     "Hours": "",
-    "Average interview length": "1 hour",
+    "Average interview length": "",
     "Time of recording": "2010s",
     "Collection status": "Completed",
     "Language(s)": "English",
@@ -1054,7 +1054,7 @@ window.tableData = [
     "Link if collection is available online": "https://www.melbourneroyal.com.au/virtual-museum/stories#oral-history",
     "Catalogue/collection listing": "Partially",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "Some videos: https://www.melbourneroyal.com.au/virtual-museum/stories#films \n\nMelbourne Royal: Celebrating 175 Years (book, published 2023)",
+    "Outputs created by collection holder": "Some videos: https://www.melbourneroyal.com.au/virtual-museum/stories#films .\n\nMelbourne Royal: Celebrating 175 Years (book, published 2023)",
     "Any other information": "The collection is saved across two hard drive for now, but given the size of the files, we've had some difficulty resourcing the production of adequate back ups that also have adequate ways to document their save location. We are also uncertain about whether we will be able to keep up with potential technological changes over the next fifty years. \n\nAccessibility has also been an issue, as recordings have not been adequately reviewed and edited to be suited to a public platform. We have been able to share them by request on an individual basis."
   },
   {
@@ -1078,7 +1078,7 @@ window.tableData = [
     "Collection purpose": "A project of the former Glenelg Regional Library Service",
     "Number of interviews": "282",
     "Hours": "400",
-    "Average interview length": "1 hour",
+    "Average interview length": "",
     "Time of recording": "1970s, 1980s",
     "Collection status": "Completed",
     "Language(s)": "English",
@@ -1170,7 +1170,7 @@ window.tableData = [
     "Collection purpose": "Unknown, but presumably to capture local history and local identities",
     "Number of interviews": "140",
     "Hours": "",
-    "Average interview length": "1 hour",
+    "Average interview length": "",
     "Time of recording": "2000s",
     "Collection status": "Completed",
     "Language(s)": "Presumably English only",
@@ -1216,7 +1216,7 @@ window.tableData = [
     "Collection purpose": "To document major contributors to health practice at RCH.",
     "Number of interviews": "",
     "Hours": "",
-    "Average interview length": "1 hour",
+    "Average interview length": "",
     "Time of recording": "1990s, 2000s, 2010s, 2020s",
     "Collection status": "Ongoing",
     "Language(s)": "English",
@@ -1262,7 +1262,7 @@ window.tableData = [
     "Collection purpose": "Interviews recorded by Anthony John DARE during his research for the publication of 'The Tech'. Dr Dare, who worked as a senior lecturer at RMIT from 1968 to 1989 in the field of Education, wrote the second part of the 'The Tech' under the title 'Working Men's College to Institute of Technology 1930 - 1981'. It is most likely, however, that a considerable proportion of this material also relates to his thesis titled 'Working Men's College to Institute of Technology 1930 - 1970', that was accepted by the University of Melbourne.\n\nIt is not clear as to how the RMIT Library came to receiving this material but most likely donated by Anthony John Dare. It must be noted that the RMIT Archives was not established until several years after Mr Dare's terminated employment.",
     "Number of interviews": "117",
     "Hours": "",
-    "Average interview length": "1 hour",
+    "Average interview length": "",
     "Time of recording": "1970s, 1980s",
     "Collection status": "Completed",
     "Language(s)": "English",
@@ -1327,7 +1327,7 @@ window.tableData = [
     "Overviews": "No interview overviews",
     "Related materials": "Photographs of interviewees",
     "Collection publicly accessible": "Available Online; Other: Some transcripts included in printed documents and some in Online publications",
-    "Link if collection is available online": "http://historyofstalbans.com.au    \nhttp://historyofstabans.org",
+    "Link if collection is available online": "http://historyofstalbans.com.au ;\n http://historyofstabans.org",
     "Catalogue/collection listing": "No",
     "Link to online catalogue/finding aid": "",
     "Outputs created by collection holder": "* Book \"Oral History of St Albans\" published by St Albans Community Youth Club. * Chapters in self published books.\n* Digital publications on CD & USB formats by St Albans High School.\n* Two websites featuring stories and photographs.\n* Photos & information on Facebook site.\n* Slide shows & discussions at local library and some schools, etc.\n* Slide shows & discussions at Brimbank Writers & Readers Festival.\n* Radio Interview about St Albans Melbourne Australia with Verulam Community Radio Limited radio station based in St Albans London.",
@@ -1382,7 +1382,7 @@ window.tableData = [
   {
     "Id": "31",
     "Contributor": "Dr Deborah Jordan",
-    "Collection holder": "As above",
+    "Collection holder": "Dr Deborah Jordan",
     "Collection holder email": "deborah.jordan@monash.edu",
     "Collection holder website": "",
     "Collection holder category": "Individual",
@@ -1396,11 +1396,11 @@ window.tableData = [
     "Collection subjects": "Arts and Cultural Life, Other: Vance and Nettie Palmer",
     "Focus on first nations": "No",
     "Collection places": "Melbourne, Brisbane",
-    "Collection description": "Interviews  \nwith leading Australian writers and intellectuals in their homes. Discussion related to their knowledge of the Palmers. \nfor example with \nJudah Waten, \nKathleen Fitzpatrick, \nHelen and Aileen Palmer\nWalter Adamson, \nJohn Barnes, \nJean Blackburn, \nJean Campbell, \nA.R. Chisholm, \nNina and Clem Christesen, \nMarie Davison, \nBrian Elliot, \nHugh Esson,  \nEllsa Haus, \nEsther Levy, \nFrederick Macartney, \nJessie MacLeod, \nStephen Murray Smith, \nArthur Phillips,\nChristina Stead \nJudah and Hyrell Waten.",
+    "Collection description": "Interviews  \nwith leading Australian writers and intellectuals in their homes. Discussion related to their knowledge of the Palmers. \nfor example with \nJudah Waten, \nKathleen Fitzpatrick, \nHelen and Aileen Palmer\nWalter Adamson, \nJohn Barnes, \nJean Blackburn, \nJean Campbell, \nA.R. Chisholm, \nNina and Clem Christesen, \nMarie Davison, \nBrian Elliot, \nHugh Esson,  \nEllsa Haus, \nEsther Levy, \nFrederick Macartney, \nJessie MacLeod, \nStephen Murray Smith, \nArthur Phillips,\nChristina Stead, \nJudah and Hyrell Waten.",
     "Collection purpose": "undertaken for PhD thesis on Vance and Nettie Palmer 1885-1959/64\nin the period 1975-1980",
     "Number of interviews": "",
     "Hours": "30",
-    "Average interview length": "1 hour",
+    "Average interview length": "",
     "Time of recording": "1970s",
     "Collection status": "Completed",
     "Language(s)": "English",
@@ -1416,7 +1416,7 @@ window.tableData = [
     "Copyright status": "Unsure",
     "Transcripts": "Some interviews have transcripts",
     "Timed summaries": "No timed summaries",
-    "Overviews": "No interview overviews",
+    "Overviews": "Unsure",
     "Related materials": "Written sources (e.g. diaries, letters)",
     "Collection publicly accessible": "Not Accessible",
     "Link if collection is available online": "",
@@ -1434,7 +1434,7 @@ window.tableData = [
     "Collection holder category": "Archive, Museum",
     "Contact person name": "Dan Haumschild or Alice McInnes",
     "Contact person email": "alice.mcinnes@mhm.org.au",
-    "Collection locations": "Organisation's Premises",
+    "Collection locations": "Organisation's Premises, Library, Museum, Gallery, External digital storage (e.g., USB, hard drive), Online Storage (e.g., Google Drive, Dropbox)",
     "Collection suburbs": "Elsternwick",
     "Collection postcodes": "3185",
     "Collection": "Melbourne Holocaust Museum Collection",
@@ -1446,7 +1446,7 @@ window.tableData = [
     "Collection purpose": "To collect and preserve the memory and history of the Holocaust from a Jewish perspective.",
     "Number of interviews": "1400",
     "Hours": "",
-    "Average interview length": "1 hour",
+    "Average interview length": "",
     "Time of recording": "1970s, 1980s, 1990s, 2000s, 2010s, 2020s",
     "Collection status": "Ongoing",
     "Language(s)": "English, Yiddish, Polish, Russian, German, French, Dutch",
@@ -1462,7 +1462,7 @@ window.tableData = [
     "Copyright status": "Each Interviewee",
     "Transcripts": "Some interviews have transcripts",
     "Timed summaries": "Some interviews have timed summaries",
-    "Overviews": "Unsure",
+    "Overviews": "Some interviews have interview overviews",
     "Related materials": "Photographs of interviewees, Other photographs, Written sources (e.g. diaries, letters), Other: physical materials",
     "Collection publicly accessible": "Upon Request",
     "Link if collection is available online": "https://mhm.org.au/collection-artefacts-testimonies/",
@@ -1504,7 +1504,7 @@ window.tableData = [
     "Physical condition": "Good condition",
     "Audio quality": "Good",
     "Consent forms": "Yes",
-    "Consent forms asked interviewees about future access or use": "Other: Firms allow for any use by arc up and research, educational purposes.",
+    "Consent forms asked interviewees about future access or use": "Other: There was an option for future access but will need to find the individual consent forms in our files.",
     "Copyright status": "Collection Holder",
     "Transcripts": "Yes, all interviews have transcripts",
     "Timed summaries": "Unsure",
@@ -1652,7 +1652,7 @@ window.tableData = [
     "Link if collection is available online": "",
     "Catalogue/collection listing": "No",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "1) PhD collection:\nPhD:\nJordana Silverstein, 'Anxious Jewish Diasporas: Narrating the Holocaust, Negotiating Displacement,' PhD Thesis, University of Melbourne, 2010.\narticles: https://www.tandfonline.com/doi/abs/10.1080/14725886.2012.720512 https://www.tandfonline.com/doi/abs/10.1080/15244113.2011.649240\nbook:\nhttps://www.berghahnbooks.com/title/SilversteinAnxious\n2) Jewish sexualities collection:\narticle: https://journals.sagepub.com/doi/abs/10.1177/1363460718811055\n3) Postdoc:\narticles: https://oralhistoryaustralia.org.au/wp-content/uploads/2019_journal_12-21_Silverstein.pdf https://www.tandfonline.com/doi/full/10.1080/14490854.2020.1840287 https://onlinelibrary.wiley.com/doi/10.1111/ajph.12618 https://link.springer.com/article/10.1007/s12142-020-00588-9\nbook: https://publishing.monash.edu/product/cruel-care/",
+    "Outputs created by collection holder": "1) PhD collection:\nPhD:\nJordana Silverstein, 'Anxious Jewish Diasporas: Narrating the Holocaust, Negotiating Displacement,' PhD Thesis, University of Melbourne, 2010.\narticles: https://www.tandfonline.com/doi/abs/10.1080/14725886.2012.720512 ; https://www.tandfonline.com/doi/abs/10.1080/15244113.2011.649240\nbook: https://www.berghahnbooks.com/title/SilversteinAnxious\n2) Jewish sexualities collection:\narticle: https://journals.sagepub.com/doi/abs/10.1177/1363460718811055\n3) Postdoc:\narticles: https://oralhistoryaustralia.org.au/wp-content/uploads/2019_journal_12-21_Silverstein.pdf ; https://www.tandfonline.com/doi/full/10.1080/14490854.2020.1840287 ; https://onlinelibrary.wiley.com/doi/10.1111/ajph.12618 ; https://link.springer.com/article/10.1007/s12142-020-00588-9\nbook: https://publishing.monash.edu/product/cruel-care/",
     "Any other information": "All of these interviews were collected for my use as the researcher only, they are not accessible to anyone else."
   },
   {
@@ -1704,14 +1704,14 @@ window.tableData = [
   {
     "Id": "38",
     "Contributor": "Ken Purdham",
-    "Collection holder": "Ken Purdham, ETU, VIctoria",
+    "Collection holder": "Ken Purdham, ETU, Victoria",
     "Collection holder email": "ken@kenpurdham.com",
     "Collection holder website": "http://kenpurdham.com",
     "Collection holder category": "Individual, Archive",
     "Contact person name": "Ken Purdham",
     "Contact person email": "ken@kenpurdham.com",
     "Collection locations": "Private Home",
-    "Collection suburbs": "Avonsleigh,",
+    "Collection suburbs": "Avonsleigh",
     "Collection postcodes": "3782",
     "Collection": "Ken Purdham Collection",
     "Collection creater (if different from current collection holder)": "",
@@ -1836,15 +1836,15 @@ window.tableData = [
     "Link if collection is available online": "",
     "Catalogue/collection listing": "Partially",
     "Link to online catalogue/finding aid": "https://victoriancollections.net.au/organisations?q=southern%20sherbrooke&type=historical%20society",
-    "Outputs created by collection holder": "Two school histories:\nThe Hub of the Town (Belgrave South Primary School history 2007)\nGlory Days - Memories of Belgrave South School and its community\" (2014)\nAssorted displays and research projects",
-    "Any other information": "The bulk of our collection is still in reasonable condition, as far as we can tell. This collection of around 160 tapes is a mixture of transcribed (both professionally and by helpful but occasionally inept volunteers) and\nuntranscribed. Around half have been digitised.\nHowever, we have inherited several cassette tapes from the 80s which are badly degraded, and attempts to find a restorer have proved unsuccessful so far.\nOur collection is well stored."
+    "Outputs created by collection holder": "Two school histories:\nThe Hub of the Town (Belgrave South Primary School history 2007),\nGlory Days - Memories of Belgrave South School and its community\" (2014).\nAssorted displays and research projects.",
+    "Any other information": "The bulk of our collection is still in reasonable condition, as far as we can tell. This collection of around 160 tapes is a mixture of transcribed and untranscribed. Around half have been digitised. However, we have inherited several cassette tapes from the 80s which are badly degraded, and attempts to find a restorer have proved unsuccessful so far. Our collection is well stored."
   },
   {
     "Id": "41",
     "Contributor": "Mairi Christina Neil",
-    "Collection holder": "as above",
+    "Collection holder": "Mairi Christina Neil",
     "Collection holder email": "mairi.christina21@gmail.com",
-    "Collection holder website": "http://(Up the Creek with a pen)       \nhttps://mairineil.com",
+    "Collection holder website": "(Up the Creek with a pen)       \nhttps://mairineil.com",
     "Collection holder category": "Individual",
     "Contact person name": "as above",
     "Contact person email": "mairi.christina21@gmail.com",
@@ -1928,7 +1928,7 @@ window.tableData = [
     "Link if collection is available online": "",
     "Catalogue/collection listing": "Partially",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "The following are a couple of examples, there are others.\nBlack Gold radio series https://www.3cr.org.au/blackgold \nBook: Radical radio: Celebrating 40 years of 3CR https://3cr-shop.myshopify.com/collections/garden-books/products/radical-radio-celebrating-40-years-of-3cr",
+    "Outputs created by collection holder": "The following are a couple of examples, there are others.\nBlack Gold radio series https://www.3cr.org.au/blackgold .\nBook: Radical radio: Celebrating 40 years of 3CR https://3cr-shop.myshopify.com/collections/garden-books/products/radical-radio-celebrating-40-years-of-3cr",
     "Any other information": "Apologies, our collection is not clearly documented and collated. But we did want to give you a sense of what we hold, and the need for our important archives to be considered as part of any work towards safeguarding precious oral histories."
   },
   {
@@ -1948,8 +1948,8 @@ window.tableData = [
     "Collection subjects": "Industry, Business, and Commerce, Other: Australian political history - Interview conducted in preparation of a biography of Sir Paul Hasluck",
     "Focus on first nations": "No",
     "Collection places": "Not specifically Victorian",
-    "Collection description": "Interview with Sir Gus Nossal on his time as a director of Conzinc Riotinto of Australia\nNotes from interview with the following individuals as part of reserach on a biography of Sir Paul Hasluck (the interviews undertaken in 1989 and 1990) with notes of the discussion made afterwards:\nCol Adams, Former Director of Mines, Northern Territory\nDavid Anderson, Former Ambassador, South Vietnam\nGordon Bryant, Former Labor member of the House of Representatives\nDes Clancy, Former Patrol Officer and District Commissioner, Territory of Papua and New Guinea\nHugh Clarke (two discussions), Former officer of Department of Territories\nDame Rachel Cleland\nTom Critchley\nSir Allen Fairhall, MHR\nW.D. Forsyth, Former officer of the Department of External Affairs\nHarry Giese (by phone from Darwin on 27 January 1990), Former Director of native Welfare Branch, Northern Territory\nPeter Hastings, former journalist\nGordon Jockel, Former officer of the Department of External Affairs\nLes Johnson, Former Director of Education, P&NG\nReg Marsh (two sessions, including a meeting in Sydney). Former Assistant Secretary, Department of territories and Assistant Administrator, Northern Territory\nTony Newman. Former patrol officer, PNG\nSir Horace Niall, Former District Commissioner Morobe, Member of House of Assembly, P&NG\nDouglass Parrish. Former patrol office rising to District Officer, P&NG\nW. Pritchett, Former Officer Department of External Affairs\nAlan Renouf, Former officer of Department of External Affair, colleague of Hasluck at the United Nations\nClaude Reseigh. Former Assistant Secretary, Finance and Economics, Department of Territories\nRonald Rose\nSir David Smith, Former Official Secretary to Sir Paul Hasluck as Governor-General\nRobert Swift, former officer Department of Territories\nSir Arthur Tange. Former secretary, Department of External Affairs\nGerry Toogood, Former representative on the Trusteeship Council of the United Nations\nHarry West, Former District Commissioner, TPNG",
-    "Collection purpose": "Nossal interview was personal interest to understand the involvement of an eminent scientist and academic on the board of a major mining company.\nInterviews were as part of preparation of a biography of Sir Paul Hasluck",
+    "Collection description": "Interview with Sir Gus Nossal on his time as a director of Conzinc Riotinto of Australia;\n Notes from interview with the following individuals as part of reserach on a biography of Sir Paul Hasluck (the interviews undertaken in 1989 and 1990) with notes of the discussion made afterwards:\nCol Adams, Former Director of Mines, Northern Territory;\n David Anderson, Former Ambassador, South Vietnam;\n Gordon Bryant, Former Labor member of the House of Representatives;\n Des Clancy, Former Patrol Officer and District Commissioner, Territory of Papua and New Guinea;\n Hugh Clarke (two discussions), Former officer of Department of Territories;\n Dame Rachel Cleland;\n Tom Critchley;\n Sir Allen Fairhall, MHR;\n W.D. Forsyth, Former officer of the Department of External Affairs;\n Harry Giese (by phone from Darwin on 27 January 1990), Former Director of native Welfare Branch, Northern Territory;\n Peter Hastings, former journalist;\n Gordon Jockel, Former officer of the Department of External Affairs;\n Les Johnson, Former Director of Education, P&NG;\n Reg Marsh (two sessions, including a meeting in Sydney). Former Assistant Secretary, Department of territories and Assistant Administrator, Northern Territory;\n Tony Newman. Former patrol officer, PNG;\n Sir Horace Niall, Former District Commissioner Morobe, Member of House of Assembly, P&NG;\n Douglass Parrish. Former patrol office rising to District Officer, P&NG;\n W. Pritchett, Former Officer Department of External Affairs;\n Alan Renouf, Former officer of Department of External Affair, colleague of Hasluck at the United Nations;\n Claude Reseigh. Former Assistant Secretary, Finance and Economics, Department of Territories;\n Ronald Rose;\n Sir David Smith, Former Official Secretary to Sir Paul Hasluck as Governor-General;\n Robert Swift, former officer Department of Territories;\n Sir Arthur Tange. Former secretary, Department of External Affairs;\n Gerry Toogood, Former representative on the Trusteeship Council of the United Nations;\n Harry West, Former District Commissioner, TPNG.",
+    "Collection purpose": "Nossal interview was personal interest to understand the involvement of an eminent scientist and academic on the board of a major mining company.\nInterviews were as part of preparation of a biography of Sir Paul Hasluck.",
     "Number of interviews": "",
     "Hours": "",
     "Average interview length": "",
@@ -2283,7 +2283,7 @@ window.tableData = [
     "Analogue or digital": "Analogue-only",
     "Audio format": "Compact Cassette Tapes",
     "Audiovisual format": "Not Applicable",
-    "Physical condition": "",
+    "Physical condition": "Good condition",
     "Audio quality": "",
     "Consent forms": "No",
     "Consent forms asked interviewees about future access or use": "Not Applicable",
@@ -2309,7 +2309,7 @@ window.tableData = [
     "Contact person name": "Derek Reid",
     "Contact person email": "derekdi@gcom.net.au",
     "Collection locations": "Organisation's Premises, Archive, Museum, Computer, External digital storage (e.g., USB, hard drive)",
-    "Collection suburbs": "Maldon and distric",
+    "Collection suburbs": "Maldon and district",
     "Collection postcodes": "3463",
     "Collection": "Untitled",
     "Collection creater (if different from current collection holder)": "",
@@ -2480,8 +2480,8 @@ window.tableData = [
     "Link if collection is available online": "https://www.storiesofdrouin.com.au/",
     "Catalogue/collection listing": "Yes",
     "Link to online catalogue/finding aid": "https://www.storiesofdrouin.com.au/",
-    "Outputs created by collection holder": "Newspaper articles - on website\nBooklet from the final presentation - on website",
-    "Any other information": "It was always hoped to produce a book one day\n\n\n\nWe are unsure how long we can continue to funds the online website... it would be great to have it secured on a permanent website\n\n\n\nThe website attracts about 250 hits per month, plus email enquiries"
+    "Outputs created by collection holder": "Newspaper articles - on website, \n Booklet from the final presentation - on website",
+    "Any other information": "It was always hoped to produce a book one day.\nWe are unsure how long we can continue to funds the online website... it would be great to have it secured on a permanent website.\nThe website attracts about 250 hits per month, plus email enquiries."
   },
   {
     "Id": "56",
@@ -2532,7 +2532,7 @@ window.tableData = [
   {
     "Id": "57",
     "Contributor": "Anthony McAleer OAM",
-    "Collection holder": "AS ABOVE",
+    "Collection holder": "Anthony McAleer OAM",
     "Collection holder email": "antmca@bigpond.com",
     "Collection holder website": "",
     "Collection holder category": "Individual",
@@ -2684,7 +2684,7 @@ window.tableData = [
     "Collection subjects": "Family and Family History, Farming and Agriculture, Folklore, Life History/Story Interview, Local Communities and Local Histories",
     "Focus on first nations": "No",
     "Collection places": "western district",
-    "Collection description": "cassette recordings of Pioneer Dinners from 1963 to 2015,  some personal interviews either cassette or CD and some now on Victorian Collections but not for sharing) , CDs of photos, DVDs of various local topics. film of historical places 1960's to 1980's.Some of these have been transferred to digital format (USB)\nMagnetic tapes of some speeches of local interest.",
+    "Collection description": "Cassette recordings of Pioneer Dinners from 1963 to 2015, some personal interviews either cassette or CD and some now on Victorian Collections but not for sharing , CDs of photos, DVDs of various local topics. Film of historical places 1960's to 1980's. Some of these have been transferred to digital format (USB). Magnetic tapes of some speeches of local interest.",
     "Collection purpose": "To record the history of the town, the people and the industries they worked in and the voices of the past.",
     "Number of interviews": "40",
     "Hours": "",
@@ -2716,7 +2716,7 @@ window.tableData = [
   {
     "Id": "61",
     "Contributor": "Renata Singer",
-    "Collection holder": "Kadimah Jewish Cultural Centre and Natonal Library",
+    "Collection holder": "Kadimah Jewish Cultural Centre and National Library",
     "Collection holder email": "renatasinger@gmail.com",
     "Collection holder website": "http://www.kadimah.org.au",
     "Collection holder category": "Community Group",
@@ -2731,7 +2731,7 @@ window.tableData = [
     "Focus on first nations": "No",
     "Collection places": "Carlton, Melbourne, Elsternwick",
     "Collection description": "The joint Kadimah Yiddish Book Center audio visual collection focuses on the life and Yiddish upbringing of the interviewees.  There are about 30 Melbourne interviews.  These are a fully accessible, searchable on-line resource. \nThe 110th Anniversary Kadimah sound recordings relate to the interviewees' memories and experiences at the Kadimah, mostly when it was in Carlton.  There are about 20 of these.\nThe Kadimah archive has the full set of 3EA/SBS Yiddish programs, most of which include interviews.\nThe Kadimah archive has numerous sound recordings of Yiddish talks given at the Kadimah by local and overseas experts",
-    "Collection purpose": "The Yiddish Book Centre's Wexler's Oral History Project, has recorded more than 1,300 in-depth video interviews that provide a deeper understanding of the Jewish experience and the legacy and changing nature of Yiddish language and culture. About 30 of these are co-owned by the Kadimah.  In Yiddish and English, they are a fully searchable on line resource.\nThe Kadimah recorded (some Voice and some Zoom) oral histories as part if it 110th anniversary, wanting to capture memories and experiences before this generation died,",
+    "Collection purpose": "The Yiddish Book Centre's Wexler's Oral History Project, has recorded more than 1,300 in-depth video interviews that provide a deeper understanding of the Jewish experience and the legacy and changing nature of Yiddish language and culture. About 30 of these are co-owned by the Kadimah.  In Yiddish and English, they are a fully searchable on line resource.\nThe Kadimah recorded (some Voice and some Zoom) oral histories as part if it 110th anniversary, wanting to capture memories and experiences before this generation died.",
     "Number of interviews": "50",
     "Hours": "150",
     "Average interview length": "1 hour",
@@ -2756,13 +2756,13 @@ window.tableData = [
     "Link if collection is available online": "https://www.yiddishbookcenter.org/collections/oral-histories/excerpts/woh-ex-0005044/maybe-you-know-name-chava-rosenfarb-danielle-charak-remembers-her-3rd-grade-yiddish-teacher (Example of an excerpt)",
     "Catalogue/collection listing": "Partially",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "https://www.kadimah.org.au/tales-of-yiddish-melbourne-now-available-on-demand/\n\n\"Tales of Yiddish Melbourne\" was made by the Kadimah and features the Yiddish Book Center's Melbourne oral histories.",
+    "Outputs created by collection holder": "https://www.kadimah.org.au/tales-of-yiddish-melbourne-now-available-on-demand/\n\"Tales of Yiddish Melbourne\" was made by the Kadimah and features the Yiddish Book Center's Melbourne oral histories.",
     "Any other information": "Our oral history work is ongoing with volunteers continuing to record the lives of Yiddish speakers in Melbourne.  As we approach our 120th Anniversary we would love to be able to share them with the local and global Yiddish community and others.\n\nAs a small precariously funded community organisation we struggle to continue gathering these unique stories.\n\nWe have funding from the Publc Records Office Victoria for preserving our archive (including our oral histories) and making it accessible."
   },
   {
     "Id": "62",
     "Contributor": "Erin Wilson",
-    "Collection holder": "Emerald District Museum",
+    "Collection holder": "Emerald & District Museum",
     "Collection holder email": "enquiries@emeraldmuseum.org.au",
     "Collection holder website": "http://www.emeraldmuseum.org.au",
     "Collection holder category": "Museum",
@@ -2788,7 +2788,7 @@ window.tableData = [
     "Audio or audiovisual format": "Audio-only",
     "Analogue or digital": "Analogue and Digital",
     "Audio format": "Compact Cassette Tapes, Audio CD-Rs, Digital Audio Files (WAV, mp3, etc), Other: N/A",
-    "Audiovisual format": "Not Applicable, N/A",
+    "Audiovisual format": "Not Applicable, Other: N/A",
     "Physical condition": "Good condition",
     "Audio quality": "Okay",
     "Consent forms": "In some cases",
@@ -2833,7 +2833,7 @@ window.tableData = [
     "Historical eras discussed": "1940s, 1950s, 1960s, 1970s, 1980s, 1990s",
     "Audio or audiovisual format": "Audio-only",
     "Analogue or digital": "Analogue-only",
-    "Audio format": "Open Reel Tapes, Tapes Also transcribed",
+    "Audio format": "Open Reel Tapes, Other: Tapes Also transcribed",
     "Audiovisual format": "Not Applicable",
     "Physical condition": "Good condition",
     "Audio quality": "Good",
@@ -2894,7 +2894,7 @@ window.tableData = [
     "Link if collection is available online": "https://theboitehistory.org/about/",
     "Catalogue/collection listing": "No",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "Digital history: https://theboitehistory.org/about/ \nMultiple conference papers",
+    "Outputs created by collection holder": "Digital history: https://theboitehistory.org/about/ . \n Multiple conference papers.",
     "Any other information": "The oral history project that developed this collection and the digital history was awarded the 2020 Victorian Community History (Diversity) Award."
   },
   {
@@ -2940,7 +2940,7 @@ window.tableData = [
     "Link if collection is available online": "Making Multicultural Australia Website (https://www.multiculturalaustralia.edu.au/)",
     "Catalogue/collection listing": "Yes",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "Making Multicultural Australia Website (https://www.multiculturalaustralia.edu.au/)\nMultiple academic publications.",
+    "Outputs created by collection holder": "Making Multicultural Australia Website (https://www.multiculturalaustralia.edu.au/).\nMultiple academic publications.",
     "Any other information": ""
   },
   {
@@ -2959,7 +2959,7 @@ window.tableData = [
     "Collection creater (if different from current collection holder)": "As above",
     "Collection subjects": "Arts and Cultural Life, Education, Environment, Place, and Natural Disasters, Family and Family History, Farming and Agriculture, Folklore, Health and Welfare, Industry, Business, and Commerce, Life History/Story Interview, Local Communities and Local Histories, Religion and Spirituality, Rural and Regional Life, Science, Technology and Innovation, Sport and Leisure, Unemployment and Underemployment, War, Women, Work, Other: Centenary services",
     "Focus on first nations": "Unsure",
-    "Collection places": "Macedon Ranges Shire Mt Alexander Shire",
+    "Collection places": "Macedon Ranges Shire, Mt Alexander Shire",
     "Collection description": "A rich and varied collection of oral histories recorded from 1978 through to 1993 and covers individual recollections, heritage events, memorial services, centenary services, plaques openings, Heritage dinner guest speaker Peter Cuffley, LEAP project to record interviews with local people during WWII and lots more.",
     "Collection purpose": "To record those individuals who had first hand knowledge of events and also recollections. Guest Speakers to the society over the years and Heritage events. Topics are varied and interesting. Such as the ceremony for the unveiling of a commemorative plaque to the Intervention of the Sheep Drafting race by William Lockhart Morton (11/3/1988).",
     "Number of interviews": "43",
@@ -3375,7 +3375,7 @@ window.tableData = [
     "Focus on first nations": "No",
     "Collection places": "Kiewa Valley",
     "Collection description": "A collection of reminiscences of older community members of their lives and family stories from previous generations",
-    "Collection purpose": "To record the life of colonial European settlers from the mid 1800s in the Gundowring region of the Kiewa Valley. Decedents of many early settlers are still living in the valley, but it was recognised that many of these family members are aging and younger generations are moving away. It was felt important to capture these stories before it was too late. With support from a PROV grant, the Gundowring group is in the process of recording 12 interviews. The plan is to lodge the recordings and transcripts (as yet completed) with the Kiewa Valley Historical Society on completion of the project at the end of 2026",
+    "Collection purpose": "To record the life of colonial European settlers from the mid 1800s in the Gundowring region of the Kiewa Valley. Decedents of many early settlers are still living in the valley, but it was recognised that many of these family members are aging and younger generations are moving away. It was felt important to capture these stories before it was too late. With support from a PROV grant, the Gundowring group is in the process of recording 12 interviews. The plan is to lodge the recordings and transcripts (as yet completed) with the Kiewa Valley Historical Society on completion of the project at the end of 2026.",
     "Number of interviews": "11",
     "Hours": "10",
     "Average interview length": "1 hour",
@@ -3406,7 +3406,7 @@ window.tableData = [
   {
     "Id": "76",
     "Contributor": "Janine Smith",
-    "Collection holder": "Merri- bek Libraries (Coburg)",
+    "Collection holder": "Merri-bek Libraries (Coburg)",
     "Collection holder email": "jsmith@merri-bek.vic.gov.au",
     "Collection holder website": "https://www.merri-bek.vic.gov.au/exploring-merri-bek/libraries/",
     "Collection holder category": "Library",
@@ -3420,7 +3420,7 @@ window.tableData = [
     "Collection subjects": "Culturally and Linguistically Diverse Communities, Disability, Health and Welfare, Life History/Story Interview, Women",
     "Focus on first nations": "No",
     "Collection places": "Coburg",
-    "Collection description": "- Videotapes - 3 copies of 'If everybody cared', 1 copy of Caring Concern Launch\n- 1 ring binder containing 'Healthy Localities Community Initiatives Scheme: Report / Evaluation Kit\n- 1 ring binder containing press clippings, flyers, questionares, journals kept by year 10 students responsible for\nthe video production, copies of photos and other assorted paperwork\n- 1 ring binder containing photos of the Banners Project taken at various Neighbourhood Houses and Health Centres in Coburg\n- Copies of Annual Reports - 1990-1991, 1991-1992, Final Report 1990-93\n- 2 copies of Acknowledging Carers - Coburg Carers their roles, needs and concerns report (July 1993)\n- Scrapbooks - one containing carer related newspaper cuttings and one containing healthy localities cuttings - 1 copy Get about Nutrition Project: Annual Report 1991 / 1992\n\n- 16 copies - of Carer's Voice Newsletter from between 1991 - 1993\n- Photos - 15 x 10cm colour - approximately 150 (some duplicates), also includes negatives for some photos \nPhotos - various sizes - black and white - approximately 50 some duplicates, some with negatives",
+    "Collection description": "Videotapes - 3 copies of 'If everybody cared', 1 copy of Caring Concern Launch;\n 1 ring binder containing 'Healthy Localities Community Initiatives Scheme: Report / Evaluation Kit;\n 1 ring binder containing press clippings, flyers, questionares, journals kept by year 10 students responsible for the video production, copies of photos and other assorted paperwork; \n 1 ring binder containing photos of the Banners Project taken at various Neighbourhood Houses and Health Centres in Coburg;\n Copies of Annual Reports - 1990-1991, 1991-1992, Final Report 1990-93;\n 2 copies of Acknowledging Carers - Coburg Carers their roles, needs and concerns report (July 1993); \n Scrapbooks - one containing carer related newspaper cuttings and one containing healthy localities cuttings - 1 copy Get about Nutrition Project: Annual Report 1991 / 1992; \n 16 copies - of Carer's Voice Newsletter from between 1991 - 1993;\n Photos - 15 x 10cm colour - approximately 150 (some duplicates), also includes negatives for some photos;\n Photos - various sizes - black and white - approximately 50 some duplicates, some with negatives.",
     "Collection purpose": "The Coburg Carers Project was undertaken by Coburg City Council as one of the six Healthy Localities Projects and was funded for three years by the Victorian Health Promotion Foundation through the Municipal Association of Victoria.\nThe purpose of the project was to improve the health and well being of women carers in Coburg by developing their ability to be self-determining and self-caring and by fostering service provision and community support.",
     "Number of interviews": "15",
     "Hours": "",
@@ -3466,7 +3466,7 @@ window.tableData = [
     "Collection subjects": "Family and Family History, Life History/Story Interview, Local Communities and Local Histories",
     "Focus on first nations": "No",
     "Collection places": "Coburg",
-    "Collection description": "- Cassette Tapes - 42 60 minute tapes and transcripts\n- 5 inch floppy discs x 20\n- Copies of various release forms, cover sheets and other correspondence related to the project",
+    "Collection description": "Cassette Tapes - 42 60 minute tapes and transcripts; \n 5 inch floppy discs x 20;\n Copies of various release forms, cover sheets and other correspondence related to the project.",
     "Collection purpose": "To record the memories and experiences of a wide cross-section of Coburg residents",
     "Number of interviews": "42",
     "Hours": "42",
@@ -3539,7 +3539,7 @@ window.tableData = [
     "Catalogue/collection listing": "No",
     "Link to online catalogue/finding aid": "",
     "Outputs created by collection holder": "Unsure",
-    "Any other information": "Current the collection holder is away on holidays. \nWe will look into how many interviews were done when he returns home."
+    "Any other information": ""
   },
   {
     "Id": "79",
@@ -3583,7 +3583,7 @@ window.tableData = [
     "Collection publicly accessible": "Not Accessible",
     "Link if collection is available online": "",
     "Catalogue/collection listing": "Yes",
-    "Link to online catalogue/finding aid": "https://library.federation.edu.au/record=b2731880 \nhttps://library.federation.edu.au/record=b2731881",
+    "Link to online catalogue/finding aid": "https://library.federation.edu.au/record=b2731880 ;\n https://library.federation.edu.au/record=b2731881",
     "Outputs created by collection holder": "",
     "Any other information": ""
   },
@@ -3696,7 +3696,7 @@ window.tableData = [
     "Collection subjects": "Activism, Politics and Social Change, Local Communities and Local Histories, Unemployment and Underemployment",
     "Focus on first nations": "No",
     "Collection places": "Brunswick",
-    "Collection description": "Explore the social and political history of Brunswick (Victoria, Australia) in the tumultuous years of the 1930s Depression via two audio tours by historians Melinda Barrie and Iain McIntyre.\n\nLock Out the Landlords : Brunswick in the Depression\nExplore the social and political history of Brunswick (Victoria, Australia) in the tumultuous years of the 1930s Depression. Join local historian Iain McIntyre to explore the collective organising of workers, families and residents in Brunswick as they fight for their survival.\nAudio recorded by Nicole Hurtubise, as part of the People's Tours of History project produced by Jane Curtis with 3CR Community Radio. http://peoplestour.net/\nEchoes tour produced by Moreland City Libraries.\n\nNoel Counihan and the Brunswick free speech fight\nJoin historian and archivist Melinda Barrie as she takes you in the footsteps of Noel Counihan and the Brunswick free speech fight. From the theatres, factories and soap-boxes of Brunswick; to dissidents riding atop street-cars and locking themselves in cages to escape arrest. Brunswick was a place of mass mobilisation and dissent.\nTour developed by Melinda Barrie, produced by Teishan Ahearne with Moreland City Libraries.",
+    "Collection description": "Explore the social and political history of Brunswick (Victoria, Australia) in the tumultuous years of the 1930s Depression via two audio tours by historians Melinda Barrie and Iain McIntyre.\nLock Out the Landlords : Brunswick in the Depression.\nExplore the social and political history of Brunswick (Victoria, Australia) in the tumultuous years of the 1930s Depression. Join local historian Iain McIntyre to explore the collective organising of workers, families and residents in Brunswick as they fight for their survival.\nAudio recorded by Nicole Hurtubise, as part of the People's Tours of History project produced by Jane Curtis with 3CR Community Radio. http://peoplestour.net/ .\nEchoes tour produced by Moreland City Libraries.\nNoel Counihan and the Brunswick free speech fight.\nJoin historian and archivist Melinda Barrie as she takes you in the footsteps of Noel Counihan and the Brunswick free speech fight. From the theatres, factories and soap-boxes of Brunswick; to dissidents riding atop street-cars and locking themselves in cages to escape arrest. Brunswick was a place of mass mobilisation and dissent.\nTour developed by Melinda Barrie, produced by Teishan Ahearne with Moreland City Libraries.",
     "Collection purpose": "",
     "Number of interviews": "12",
     "Hours": "12",
@@ -3719,7 +3719,7 @@ window.tableData = [
     "Overviews": "Yes, all interviews have interview overviews",
     "Related materials": "No",
     "Collection publicly accessible": "Available Online",
-    "Link if collection is available online": "https://explore.echoes.xyz/collections/vx5AlSECVHwjwoNM   \nhttps://explore.echoes.xyz/collections/3VdGe2xkZ7dZFgUB",
+    "Link if collection is available online": "https://explore.echoes.xyz/collections/vx5AlSECVHwjwoNM ; https://explore.echoes.xyz/collections/3VdGe2xkZ7dZFgUB",
     "Catalogue/collection listing": "Yes",
     "Link to online catalogue/finding aid": "",
     "Outputs created by collection holder": "PDF document of map and guide",
@@ -3859,7 +3859,7 @@ window.tableData = [
     "Collection publicly accessible": "Upon Request, Other: As part of the main Library collection",
     "Link if collection is available online": "",
     "Catalogue/collection listing": "Yes",
-    "Link to online catalogue/finding aid": "https://shrl.libsvic.ent.sirsidynix.net.au/client/en_AU/shrl/search/results?qu=Oral+history&qf=LIBRARY%09Librar y%091%3ASWAN- HILL%09Swan+Hill+Library&qf=AUTHOR%09Author%09Mallee+Oral+History+Group.%09Mallee+Oral+History+ Group.&rw=12&isd=true",
+    "Link to online catalogue/finding aid": "https://shrl.libsvic.ent.sirsidynix.net.au/client/en_AU/shrl/search/results?qu=Oral+history&qf=LIBRARY%09Library%091%3ASWAN-HILL%09Swan+Hill+Library&qf=AUTHOR%09Author%09Mallee+Oral+History+Group.%09Mallee+Oral+History+Group.&rw=12&isd=true",
     "Outputs created by collection holder": "",
     "Any other information": ""
   },
@@ -3972,7 +3972,7 @@ window.tableData = [
     "Collection subjects": "Activism, Politics and Social Change, Arts and Cultural Life, Environment, Place, and Natural Disasters, Family and Family History, Industry, Business, and Commerce, Life History/Story Interview, Local Communities and Local Histories, Migration, Religion and Spirituality, Science, Technology and Innovation, Sport and Leisure, Unemployment and Underemployment, War, Women, Work, Other: Also includes involvement in research/printing of 'Power without Glory' novel by Frank Hardy",
     "Focus on first nations": "Unsure",
     "Collection places": "Brunswick",
-    "Collection description": "Maximum of 5 hours of interviews in 1979 by prominent local printer, activist and historian, Les Barnes\n(1905-1994). Interview was undertaken by field work student Norma Martin. Start of each tape includes short list of topics covered. Currently analogue only but with aim to digitize in 2025.",
+    "Collection description": "Maximum of 5 hours of interviews in 1979 by prominent local printer, activist and historian, Les Barnes (1905-1994). Interview was undertaken by field work student Norma Martin. Start of each tape includes short list of topics covered. Currently analogue only but with aim to digitize in 2025.",
     "Collection purpose": "Assume documentation of local history memoirs by key local identity.",
     "Number of interviews": "5",
     "Hours": "5",
@@ -4091,7 +4091,7 @@ window.tableData = [
     "Catalogue/collection listing": "No",
     "Link to online catalogue/finding aid": "",
     "Outputs created by collection holder": "Seminar presentation with Powerpoint slides in 2017",
-    "Any other information": "Further information about the Gardens on Website and Facebook\nhttp://www.mckaygardens.com.au/ https://www.facebook.com/FriendsofMcKayGardens"
+    "Any other information": "Further information about the Gardens on Website and Facebook.\nhttp://www.mckaygardens.com.au/ ; https://www.facebook.com/FriendsofMcKayGardens"
   },
   {
     "Id": "91",
@@ -4340,8 +4340,8 @@ window.tableData = [
     "Collection subjects": "Environment, Place and Natural Disasters, Family and Family History, Farming and Agriculture, Life History/Story Interview, Local Communities and Local Histories, Rural and Regional Life, War, Work, Other: Maritime history",
     "Focus on first nations": "No",
     "Collection places": "Apollo Bay, Otwar Ranges and South Coast",
-    "Collection description": "Audio Casett Tape Interviews with local residents\nVHS Video Tape Interviews wityh local residents –\nMp3 interviews with local residents – 16\nMp4 interviews with local residents – 18\nTranscripts of interviews with local residents – 24",
-    "Collection purpose": "The collectio was created to record the history of Apollo Bay district",
+    "Collection description": "Audio Casett Tape Interviews with local residents,\nVHS Video Tape Interviews with local residents –,\nMp3 interviews with local residents – 16,\nMp4 interviews with local residents – 18,\nTranscripts of interviews with local residents – 24",
+    "Collection purpose": "The collection was created to record the history of Apollo Bay district",
     "Number of interviews": "86",
     "Hours": "unknown",
     "Average interview length": "",
@@ -4372,7 +4372,7 @@ window.tableData = [
   {
     "Id": "97",
     "Contributor": "Grace Kathryn Trist",
-    "Collection holder": "Monash Student ASsociation",
+    "Collection holder": "Monash Student Association",
     "Collection holder email": "msa-archive@Monash.edu",
     "Collection holder website": "http://msa.monash.edu",
     "Collection holder category": "Community Group, Association, Club or Society, Library",
@@ -4570,7 +4570,7 @@ window.tableData = [
     "Collection subjects": "First Nations People, Life History/Story Interview, Sport and Leisure",
     "Focus on first nations": "Yes",
     "Collection places": "Western Victoria",
-    "Collection description": "Our museum tells the story of Unaarrimin-Johnny Mullagh and the First XI of 1868, the first team to represent Australia in any sport. They were a corageous group of men from western Victoria that were, all but one, Aboriginal. We have a collection of videos and dvd's of people, some descendants, of this story that needs preserving.\nWe also have significant items that are irreplaceable that are connected to the story.",
+    "Collection description": "Our museum tells the story of Unaarrimin-Johnny Mullagh and the First XI of 1868, the first team to represent Australia in any sport. They were a courageous group of men from western Victoria that were, all but one, Aboriginal. We have a collection of videos and dvd's of people, some descendants, of this story that needs preserving.\nWe also have significant items that are irreplaceable that are connected to the story.",
     "Collection purpose": "The collection was created when the museum in Harrow was opened 21 years ago.",
     "Number of interviews": "5",
     "Hours": "",
@@ -4596,7 +4596,7 @@ window.tableData = [
     "Link if collection is available online": "https://www.australianhistorymysteries.info/resource-zone/primary-harrow/overview.php",
     "Catalogue/collection listing": "Partially",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "Photographs\nInterviews in documentaries\nTape recordings\nbooks\npodcasts",
+    "Outputs created by collection holder": "Photographs,\nInterviews in documentaries,\nTape recordings,\nbooks,\npodcasts.",
     "Any other information": ""
   },
   {
@@ -4611,7 +4611,7 @@ window.tableData = [
     "Collection locations": "Private Home",
     "Collection suburbs": "Mount Franklin Victoria",
     "Collection postcodes": "3461",
-    "Collection": "memories of members of Communist Party of Australia who were members in period 1930-1956",
+    "Collection": "Memories of members of Communist Party of Australia who were members in period 1930-1956",
     "Collection creater (if different from current collection holder)": "",
     "Collection subjects": "Activism, Politics and Social Change",
     "Focus on first nations": "No",
@@ -4826,7 +4826,7 @@ window.tableData = [
     "Link if collection is available online": "https://podcasts.apple.com/au/podcast/city-of-boroondara-heritage-collection/id1768899106",
     "Catalogue/collection listing": "Partially",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "https://podcasts.apple.com/au/podcast/city-of-boroondara-heritage-collection/id1768899106\n\nhttps://boroondara.spydus.com/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/98848266/48142137,1\n\nhttps://boroondara.spydus.com/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/98847693/48437164,2",
+    "Outputs created by collection holder": "https://podcasts.apple.com/au/podcast/city-of-boroondara-heritage-collection/id1768899106 ;\n\nhttps://boroondara.spydus.com/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/98848266/48142137,1 ;\n\nhttps://boroondara.spydus.com/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/98847693/48437164,2",
     "Any other information": ""
   },
   {
@@ -4892,7 +4892,7 @@ window.tableData = [
     "Collection subjects": "War",
     "Focus on first nations": "No",
     "Collection places": "Milne Bay, Vietnam, Burma, Korea, S.E.Asia",
-    "Collection description": "\"Wartime experiences of Community Members\" is an Oral History Collection recorded with members of the North Balwyn RSL Sub-Branch around 1997. Interview details:\nArthur Sandell on Catalina Flying Boats\nBrigadier Sarong?. Vietnam\nIvor White 2/5 Inf Bn. Experiences of a foots logger Joan Wicks - Experiences of a nurse in wartime Robert Sangster - War Experiences\nLachlan McSweeney - Merchant Navy\nBob Asker - Bomber Command\nEvan Philp. Capt Milne Bay 1942\nFrank Bartlett - Memories of an R.A.A.F man in WW11 Max Beaumont - Memories of a medical unit in war Wal Brigden - The Dam Busters\nJohn Danby an ACK - ACK Gunners memoirs\nFrank Jordan 2/2 Machine Gun Bn.\nFrank Kuffer - An RAAF Medical Man\nRobert Sangster aboard the Queen Mary\nJock Moodey with BCOF in Japan\nJohn Payne - A spitfire pilot in Burma\nTed Jane - Naval Experience NBRSL 3/10/1997\nPat Melican with the R.A.A.F in Korea\nHarry Smith - Vietnam Story\nColin Hamley 2/2 Pioneer BN - A trip around S.E.Asia R.Webster - Vietnam",
+    "Collection description": "\"Wartime experiences of Community Members\" is an Oral History Collection recorded with members of the North Balwyn RSL Sub-Branch around 1997. Interview details:\nArthur Sandell on Catalina Flying Boats; \n Brigadier Sarong?. Vietnam; \n Ivor White 2/5 Inf Bn. Experiences of a foots logger Joan Wicks - Experiences of a nurse in wartime Robert Sangster - War Experiences;\n Lachlan McSweeney - Merchant Navy;\n Bob Asker - Bomber Command;\n Evan Philp. Capt Milne Bay 1942;\n Frank Bartlett - Memories of an R.A.A.F man in WW11 Max Beaumont - Memories of a medical unit in war Wal Brigden - The Dam Busters; \n John Danby an ACK - ACK Gunners memoirs; \n Frank Jordan 2/2 Machine Gun Bn.; \n Frank Kuffer - An RAAF Medical Man; \n Robert Sangster aboard the Queen Mary; \n Jock Moodey with BCOF in Japan; \n John Payne - A spitfire pilot in Burma; \n Ted Jane - Naval Experience NBRSL 3/10/1997; \n Pat Melican with the R.A.A.F in Korea; \n Harry Smith - Vietnam Story; \n Colin Hamley 2/2 Pioneer BN - A trip around S.E.Asia R.Webster - Vietnam.",
     "Collection purpose": "To document the experiences of wartime experiences, donated to the Boroondara Library Service from the North Balwyn RSL Sub-Branch when they folded in 2015",
     "Number of interviews": "22",
     "Hours": "",
@@ -5030,7 +5030,7 @@ window.tableData = [
     "Collection subjects": "Family and Family History, Life History/Story Interview, Local Communities and Local Histories, War, Work",
     "Focus on first nations": "No",
     "Collection places": "Boroondara",
-    "Collection description": "Assorted Boroondara Oral History Interviews: Tom Hoey Interview by John Hilvert Recollections of Hawthorn Mr. Partridge, interview by Elaine Warne\nElaine Carty - Deborah Zion Interview 774 3LO\nBetty Fitts: Circulating Libraries based in Hawthorn at the beginning of the war 1987\nAustralia Remembers Oral History tapes: \"The War At Home\" 1995 Dr Una Porter & Mrs Desda 1980\nSid Dodman Interview\nMrs Eileen Hall Interview\nMrs De Clifford Interview\nMiss Vera Lynch Interview\nMrs Lillian Brockway Interview\nMrs Leila St John Interview\nCharles Hansen & Jack Mclean Interview\nFrank Mason & Mrs Mason Interview\nGil Muling Interview\nBob Partington Interview\nBruce Steele Interview\nMrs Mavis Nichell Interview\nMrs Joan Thorn (Dr Joan Darbyshire)\nMrs Kinneer Interview Tape 1 & 2\nMrs Dorothy Prestegar Interview\nHarold Oakford Interview\nFR. Michael Rafter - Sacred Heart - & Mr J.Obrien - Retired Postman -\nMr Wilson & Paul Cronin -\nMrs C. Robinson - shopkeeper 1918 & Mr Peter Hoban - Kew resident rotarian\nDr M.Milvain - Normanby Road\nMr Douglas Keep - 17/7/1982, & Cr Allen Martin - Mayor - 12/9/1988\nAllan Martin & Hon Justice MD Kirby.\nMrs Soley\nMr Gerard Cramer - Headmaster Carey Grammer. 24/11/1988. & Mr Vin Doquile - Spillers Pharmacy (Cnr Glenferrie & Cotham) 9/3/1989\nKirsty Seccombe\nMiss H.M Houston (1981) & Mrs Witchell (23/6/1984)\nJane Bate (30/9/1982) & Mrs Rothwell (8/4/1982)\nMr Lance Davies & sister Mrs Greenwood 4/7/1987 & Miss Eva Grant (22/10/1982)\nMiss Ina Ramsay reminiscences of Kew (12/2/1982) & Hon andrew Peacock Interview (12/2/1982)\nAlex Tarr (1980) & Mr Wilson Post Office\nOral History from Ashburton - Shops and shopping in Ashburton 1985\nThe Morton's Bakers of East Kew",
+    "Collection description": "Assorted Boroondara Oral History Interviews: Tom Hoey Interview by John Hilvert Recollections of Hawthorn Mr. Partridge, interview by Elaine Warne; \n Elaine Carty - Deborah Zion Interview 774 3LO; \n Betty Fitts: Circulating Libraries based in Hawthorn at the beginning of the war 1987; \n Australia Remembers Oral History tapes: \"The War At Home\" 1995 Dr Una Porter & Mrs Desda 1980; \n Sid Dodman Interview; \n Mrs Eileen Hall Interview; \n Mrs De Clifford Interview; \n Miss Vera Lynch Interview; \n Mrs Lillian Brockway Interview; \n Mrs Leila St John Interview; \n Charles Hansen & Jack Mclean Interview; \n Frank Mason & Mrs Mason Interview; \n Gil Muling Interview; \n Bob Partington Interview; \n Bruce Steele Interview; \n Mrs Mavis Nichell Interview; \n Mrs Joan Thorn (Dr Joan Darbyshire); \n Mrs Kinneer Interview Tape 1 & 2; \n Mrs Dorothy Prestegar Interview; \n Harold Oakford Interview; \n FR. Michael Rafter - Sacred Heart - & Mr J.Obrien - Retired Postman; \n Mr Wilson & Paul Cronin; \n Mrs C. Robinson - shopkeeper 1918 & Mr Peter Hoban - Kew resident rotarian; \n Dr M.Milvain - Normanby Road; \n Mr Douglas Keep - 17/7/1982, & Cr Allen Martin - Mayor - 12/9/1988; \n Allan Martin & Hon Justice MD Kirby; \n Mrs Soley; \n Mr Gerard Cramer - Headmaster Carey Grammer. 24/11/1988. & Mr Vin Doquile - Spillers Pharmacy (Cnr Glenferrie & Cotham) 9/3/1989; \n Kirsty Seccombe; \n Miss H.M Houston (1981) & Mrs Witchell (23/6/1984); \n Jane Bate (30/9/1982) & Mrs Rothwell (8/4/1982); \n Mr Lance Davies & sister Mrs Greenwood 4/7/1987 & Miss Eva Grant (22/10/1982); \n Miss Ina Ramsay reminiscences of Kew (12/2/1982) & Hon andrew Peacock Interview (12/2/1982); \n Alex Tarr (1980) & Mr Wilson Post Office; \n Oral History from Ashburton - Shops and shopping in Ashburton 1985; \n The Morton's Bakers of East Kew.",
     "Collection purpose": "",
     "Number of interviews": "42",
     "Hours": "",
@@ -5075,7 +5075,7 @@ window.tableData = [
     "Collection creater (if different from current collection holder)": "Golden Dragon Museum, Bendigo Chinese Association, and Diana Giese",
     "Collection subjects": "Activism, Politics and Social Change, Arts and Cultural Life, Culturally and Linguistically Diverse Communities, Family and Family History, Farming and Agriculture, Life History/Story Interview, Local Communities and Local Histories, Migration, Religion and Spirituality, Rural and Regional Life, War",
     "Focus on first nations": "No",
-    "Collection places": "bank",
+    "Collection places": "Bendigo, Victoria, Australia",
     "Collection description": "An assorted collection of tapes and video content including interviews with members of the Chinese Australian community. The collection is broken down into a few different smaller collection categories, based on their purpose of recording.",
     "Collection purpose": "Diana Giese’s interviews were conducted as part of the ‘Courage and Service’ project in 1997, a project which focused on the contribution of Chinese Australian servicemen and women. The project resulted in an exhibition and book, for which the oral histories formed part of the research.\nJoan Jack, former GDM Curator and wife of GDM founder Russell Jack AM, conducted and supervised several interviews with Chinese Bendigodians and people associated with the Dragon Parade tradition around the time the Museum opened in 1991. The interviews date from 1980s-1990s.\nThe Golden Dragon Museum has undertaken further oral history recordings in more recent years, to add to the existing collection. These were not necessarily collected as part of a specific project or on any particular theme.",
     "Number of interviews": "65",
@@ -5133,8 +5133,8 @@ window.tableData = [
     "Historical eras discussed": "1920s, 1930s, 1940s, 1950s, 1960s, 1970s, 1980s, 1990s",
     "Audio or audiovisual format": "Audiovisual",
     "Analogue or digital": "Analogue and Digital",
-    "Audio format": "Compact Cassette Tapes, Audio CD-Rs, Digital Audio Files (WAV, mp3, etc), micro-cassettes, LP",
-    "Audiovisual format": "Digital Files (MP4, mov, etc): VHS being converted to MP4, well backed up when digital, Digital Video (DV) tape, VHS",
+    "Audio format": "Compact Cassette Tapes, Audio CD-Rs, Digital Audio Files (WAV, mp3, etc), Other: micro-cassettes, LP",
+    "Audiovisual format": "Digital Files (MP4, mov, etc): VHS being converted to MP4, well backed up when digital, Digital Video (DV) tape, Other: VHS",
     "Physical condition": "Good condition",
     "Audio quality": "Good, Okay, Hard to Hear",
     "Consent forms": "In some cases",
@@ -5194,7 +5194,7 @@ window.tableData = [
     "Link if collection is available online": "",
     "Catalogue/collection listing": "Partially",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "Geraldine McFarlane published the re-enacted oral histories as a talking book, and the transcriptions were published in to a publication. \n\nhttps://boroondara.spydus.com/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/98969256/48343914,1\nhttps://boroondara.spydus.com/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/98969256/48303517,2",
+    "Outputs created by collection holder": "Geraldine McFarlane published the re-enacted oral histories as a talking book, and the transcriptions were published in to a publication. \nhttps://boroondara.spydus.com/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/98969256/48343914,1 ;\nhttps://boroondara.spydus.com/cgi-bin/spydus.exe/FULL/WPAC/BIBENQ/98969256/48303517,2",
     "Any other information": ""
   },
   {
@@ -5260,7 +5260,7 @@ window.tableData = [
     "Collection subjects": "Local Communities and Local Histories",
     "Focus on first nations": "No",
     "Collection places": "Hawthorn",
-    "Collection description": "Living Hawthorn Master,1906 and 1988 - Source 16mm Film, video cassettes\n\"Suburban streetscape: Living Hawthorn 1906 and 1979\" Deakin University Media Production 1980 and Audio FX Dubbing Master\nSuburban Streetscape - Living Hawthorn 1904-1979, 1979 VHS tape\nPerspective on Hawthorn video cassette, 1985 (Kit and discussion notes)",
+    "Collection description": "Living Hawthorn Master, 1906 and 1988 - Source 16mm Film, video cassettes; \n \"Suburban streetscape: Living Hawthorn 1906 and 1979\" Deakin University Media Production 1980 and Audio FX Dubbing Master; \n Suburban Streetscape - Living Hawthorn 1904-1979, 1979 VHS tape; \n Perspective on Hawthorn video cassette, 1985 (Kit and discussion notes).",
     "Collection purpose": "",
     "Number of interviews": "",
     "Hours": "",
@@ -5272,7 +5272,7 @@ window.tableData = [
     "Audio or audiovisual format": "Audiovisual",
     "Analogue or digital": "Analogue-only",
     "Audio format": "Not Applicable",
-    "Audiovisual format": "Digital Video (DV) tape, Film (e.g. 16mm), Unknown, Memorex Q2HD Video Casettes UCA 30, VHS video tape, VHS BASF E120 chromdioxid video cassette",
+    "Audiovisual format": "Digital Video (DV) tape, Film (e.g. 16mm), Unknown, Other: Memorex Q2HD Video Casettes UCA 30, VHS video tape, VHS BASF E120 chromdioxid video cassette",
     "Physical condition": "Unsure",
     "Audio quality": "Unsure",
     "Consent forms": "Unsure",
@@ -5409,8 +5409,8 @@ window.tableData = [
     "Historical eras discussed": "1920s, 1930s, 1940s, 1950s, 1960s, 1970s, 1980s, 1990s, 2000s, 2010s, 2020s",
     "Audio or audiovisual format": "Both",
     "Analogue or digital": "Analogue and Digital",
-    "Audio format": "Digital Audio Files (WAV, mp3, etc). All media considered obsolete (eg. tapes) have recently been digitised",
-    "Audiovisual format": "Digital Files (MP4, mov, etc), All media considered obsolete (eg. tapes) have recently been digitised",
+    "Audio format": "Digital Audio Files (WAV, mp3, etc), Other: All media considered obsolete (eg. tapes) have recently been digitised",
+    "Audiovisual format": "Digital Files (MP4, mov, etc), Other: All media considered obsolete (eg. tapes) have recently been digitised",
     "Physical condition": "Good condition",
     "Audio quality": "Good",
     "Consent forms": "In some cases",
@@ -5424,7 +5424,7 @@ window.tableData = [
     "Link if collection is available online": "",
     "Catalogue/collection listing": "Yes",
     "Link to online catalogue/finding aid": "https://stonnington.spydus.com/cgi-bin/spydus.exe/MSGTRN/OPAC/BSEARCH_ARC?HOMEPRMS=ARCPARAMS",
-    "Outputs created by collection holder": "Short films of recent oral history projects about COVID-19 are on our website at https://www.stonnington.vic.gov.au/Library/Visit-us/Stonnington-History-Centre/Young-Voices-of-the-Pandemic   and    https://www.stonnington.vic.gov.au/Library/Visit-us/Stonnington-History-Centre/Older-Voices-of-the-Pandemic\n\nSally Wilde, The History of Prahran Volume II: 1925-1990 (1993)",
+    "Outputs created by collection holder": "Short films of recent oral history projects about COVID-19 are on our website at https://www.stonnington.vic.gov.au/Library/Visit-us/Stonnington-History-Centre/Young-Voices-of-the-Pandemic   and    https://www.stonnington.vic.gov.au/Library/Visit-us/Stonnington-History-Centre/Older-Voices-of-the-Pandemic ; \nSally Wilde, The History of Prahran Volume II: 1925-1990 (1993)",
     "Any other information": "The Stonnington History Centre has recently digitised all oral histories and other recordings in our collection which were originally created in now-obsolete formats (eg. tape). These can all be accessed by appointment at the Stonnington History Centre. As an archive and repository, we will strive to ensure that they remain accessible in digital format/s in future, in accordance with best practice."
   },
   {
@@ -5445,7 +5445,7 @@ window.tableData = [
     "Focus on first nations": "No",
     "Collection places": "National - interviewees come from most states of Australia",
     "Collection description": "The collection includes two sets of whole-of-life oral history interviews with Australian journalists. The first group of interviews were conducted from 2014 to 2015 and the second from 2022 to 2024. The interviews mostly relate to print newspaper journalism and the 1980 national journalists strike. A significant number of the interviewees had worked for extended periods as special industrial relations reporters.",
-    "Collection purpose": "The collection was created as part of postgraduate research by the collection holder Judy Hughes. The first set relate to her Master's research at Monash University, which resulted in the thesis 'Coping with change in print journalism: An analysis of the lived experience of Melbourne journalists, 1975–2015'. The second set relate to her PhD research into the 1980 national journalists strike and related issues of activism and identity. A number of the interviews fro the first set are also relevant to the PhD research.",
+    "Collection purpose": "The collection was created as part of postgraduate research by the collection holder Judy Hughes. The first set relate to her Master's research at Monash University, which resulted in the thesis 'Coping with change in print journalism: An analysis of the lived experience of Melbourne journalists, 1975–2015'. The second set relate to her PhD research into the 1980 national journalists strike and related issues of activism and identity. A number of the interviews from the first set are also relevant to the PhD research.",
     "Number of interviews": "36",
     "Hours": "100",
     "Average interview length": "4 hours",
@@ -5548,7 +5548,7 @@ window.tableData = [
     "Audio or audiovisual format": "Both",
     "Analogue or digital": "Unsure",
     "Audio format": "Other: 'TSH' file on computer. Copied from a hand held recorder.",
-    "Audiovisual format": "Unknown, VHS and digital",
+    "Audiovisual format": "Unknown, Other: VHS and digital",
     "Physical condition": "Unsure",
     "Audio quality": "Good",
     "Consent forms": "In some cases",
@@ -5792,8 +5792,8 @@ window.tableData = [
     "Link if collection is available online": "",
     "Catalogue/collection listing": "No",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "PhD thesis \njournal articles \nconference presentations",
-    "Any other information": "I wasn't 100% sure if this was the type of collection you were after, but it is the main collection that I have! And I have often wondered about the best way to preserve it going forward. \n\ngretel.evans@monash.edu; gretelevans107@gmail.com \nMonash contract currently due to expire early 2025."
+    "Outputs created by collection holder": "PhD thesis, journal articles, conference presentations",
+    "Any other information": ""
   },
   {
     "Id": "129",
@@ -5904,7 +5904,7 @@ window.tableData = [
     "Collection subjects": "Family and Family History, Farming and Agriculture, Life History/Story Interview, Local Communities and Local Histories, Rural and Regional Life",
     "Focus on first nations": "No",
     "Collection places": "Murchison",
-    "Collection description": "Interviews of local identities\nFamily history\nSignificant local events\nDevelopment of the township",
+    "Collection description": "Interviews of local identities, Family history, Significant local events, Development of the township.",
     "Collection purpose": "To preserve local history: peoples' stories, family details, account of important events, changing practices in agriculture.",
     "Number of interviews": "75",
     "Hours": "",
@@ -5950,7 +5950,7 @@ window.tableData = [
     "Collection subjects": "Family and Family History, Life History/Story Interview, Local Communities and Local Histories",
     "Focus on first nations": "Unsure",
     "Collection places": "Wyndham",
-    "Collection description": "First collection is auio interviews with members of the community,  2nd collection  is still in progress  video interviews",
+    "Collection description": "First collection is audio interviews with members of the community,  2nd collection  is still in progress  video interviews",
     "Collection purpose": "To capture the memories and experiences of community members living in Wyndham",
     "Number of interviews": "",
     "Hours": "",
@@ -5992,7 +5992,7 @@ window.tableData = [
     "Collection suburbs": "Nunawading",
     "Collection postcodes": "3132",
     "Collection": "Untitled",
-    "Collection creater (if different from current collection holder)": "Nunawading District Historical Society  (Now Whitehorse Historical Society inc) Formed as the Nunawading Historical Society in 1965, early initiatives included the collection and display of historical items following the restoration of Schwerkolt Cottage and the development of the Museum Complex.",
+    "Collection creater (if different from current collection holder)": "Nunawading District Historical Society  (Now Whitehorse Historical Society inc). Formed as the Nunawading Historical Society in 1965, early initiatives included the collection and display of historical items following the restoration of Schwerkolt Cottage and the development of the Museum Complex.",
     "Collection subjects": "Arts and Cultural Life, Education, Environment, Place, and Natural Disasters, Farming and Agriculture, Folklore, Industry, Business, and Commerce, Life History/Story Interview, Local Communities and Local Histories, Rural and Regional Life, Sport and Leisure, War, Work",
     "Focus on first nations": "Unsure",
     "Collection places": "Blackburn, Blackburn North, Blackburn South, Burwood East, Forest Hill, Mitcham, Nunawading, Vermont and Vermont South.",
@@ -6088,7 +6088,7 @@ window.tableData = [
     "Collection subjects": "",
     "Focus on first nations": "No",
     "Collection places": "former Pentridge Prison, Coburg",
-    "Collection description": "Pentridge Voices records personal accounts of people who were directly involved with Pentridge Prison in Coburg, Victoria, in order to preserve this firsthand history\nThe collection includes interviews with former prisoners, former staff, and individuals with a unique connection to the former prison.",
+    "Collection description": "Pentridge Voices records personal accounts of people who were directly involved with Pentridge Prison in Coburg, Victoria, in order to preserve this firsthand history. The collection includes interviews with former prisoners, former staff, and individuals with a unique connection to the former prison.",
     "Collection purpose": "Pentridge Voices' collection was created to preserve the personal histories of those connected to Pentridge Prison. The purpose is to document the human side of the notorious institution by gathering firsthand oral histories from former prisoners, staff, and others, ensuring their unique experiences are not forgotten and lost.",
     "Number of interviews": "50",
     "Hours": "",
@@ -6114,7 +6114,7 @@ window.tableData = [
     "Link if collection is available online": "http://www.pentridgevoices.com",
     "Catalogue/collection listing": "Unsure",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "https://pentridge-prison-inside-out.square.site/product/the-bear-prison-officer-dennis-bear-s-time-in-d-division/5?cs=true&cst=custom    \nhttps://pentridge-prison-inside-out.square.site/product/lifeof-brian-brian-vallance-s-time-in-pentridge-prison-2nd-edition-/4?si=true    \nhttps://pentridge-prison-inside-out.square.site/product/bluestone-poems-by-eugene-alexander-donnini/6?si=true  \nCurated tours through former D Division in 2024.",
+    "Outputs created by collection holder": "https://pentridge-prison-inside-out.square.site/product/the-bear-prison-officer-dennis-bear-s-time-in-d-division/5?cs=true&cst=custom .\n  https://pentridge-prison-inside-out.square.site/product/lifeof-brian-brian-vallance-s-time-in-pentridge-prison-2nd-edition-/4?si=true .    \n  https://pentridge-prison-inside-out.square.site/product/bluestone-poems-by-eugene-alexander-donnini/6?si=true .\n  Curated tours through former D Division in 2024.",
     "Any other information": ""
   },
   {
@@ -6145,7 +6145,7 @@ window.tableData = [
     "Historical eras discussed": "1940s, 1950s, 1960s, 1970s, 1980s, 1990s",
     "Audio or audiovisual format": "Audio-only",
     "Analogue or digital": "Analogue-only",
-    "Audio format": "Compact Cassette Tapes, Converted to MP3 and on USB",
+    "Audio format": "Compact Cassette Tapes, Other: Converted to MP3 and on USB",
     "Audiovisual format": "Not Applicable",
     "Physical condition": "Good condition",
     "Audio quality": "Good",
@@ -6207,7 +6207,7 @@ window.tableData = [
     "Catalogue/collection listing": "No",
     "Link to online catalogue/finding aid": "",
     "Outputs created by collection holder": "There will be a small brochure. The idea is that videos are able to be accessed via the website and also via QR codes linked to the cartoons on the trail.",
-    "Any other information": "When I started the project, I had only intended short 2 minute clips, but many people have spoken for longer, also I did not realise how many people would be keen to be part of it, so it taking me longer than anticipated as I do not have any help and it is a volunteer job.\nAs the administrator of the Kaniva website, many people have given me and continue to give me various historical items for the purpose of making them readily accessible. Of particular interest is this  historical recording from 1972 recorded by the ABC for a series called Heritage featuring 6 ecological regions of Australia which included the Little Desert National Park. The recording features a 45 minute interview with the 'three blind mice' and provides first hand insight into the passion of the locals in preserving the area for generations to come. The recording also features local environmentalists and local historian Les Blake, referencing the local links of poet John Shaw Nelson and the Lost in the Bush story. https://www.kaniva.org/uploads/1/3/8/2/138203694/heritage_abc_three_blind_mice_1972.m4a \n\nAlso of interest is an interview recorded in 1995 with Laurie Rogers as wood merchant. We have linked to his interview through our Sheep painted in his memory. https://www.kaniva.org/laurie.html\n\nLastly, I was a founding member of the Purple Starfish and as part of our Heritage Wool Bale Stencil wall, former member Tom Curtis recorded oral histories of the sheep farmers. Unfortunately, the collection can not be located. I have personally searched for this which I remember being saved onto floppy disc at the time."
+    "Any other information": "When I started the project, I had only intended short 2 minute clips, but many people have spoken for longer, also I did not realise how many people would be keen to be part of it, so it taking me longer than anticipated as I do not have any help and it is a volunteer job.\nAs the administrator of the Kaniva website, many people have given me and continue to give me various historical items for the purpose of making them readily accessible. Of particular interest is this  historical recording from 1972 recorded by the ABC for a series called Heritage featuring 6 ecological regions of Australia which included the Little Desert National Park. The recording features a 45 minute interview with the 'three blind mice' and provides first hand insight into the passion of the locals in preserving the area for generations to come. The recording also features local environmentalists and local historian Les Blake, referencing the local links of poet John Shaw Nelson and the Lost in the Bush story. https://www.kaniva.org/uploads/1/3/8/2/138203694/heritage_abc_three_blind_mice_1972.m4a .\n Also of interest is an interview recorded in 1995 with Laurie Rogers as wood merchant. We have linked to his interview through our Sheep painted in his memory. https://www.kaniva.org/laurie.html . \n Lastly, I was a founding member of the Purple Starfish and as part of our Heritage Wool Bale Stencil wall, former member Tom Curtis recorded oral histories of the sheep farmers. Unfortunately, the collection can not be located. I have personally searched for this which I remember being saved onto floppy disc at the time."
   },
   {
     "Id": "139",
@@ -6304,7 +6304,7 @@ window.tableData = [
   {
     "Id": "141",
     "Contributor": "Esther Yeoman",
-    "Collection holder": "Snake Valley & Distrcit Historical Society",
+    "Collection holder": "Snake Valley & District Historical Society",
     "Collection holder email": "svdhs.queries@gmail.com",
     "Collection holder website": "https://www.facebook.com/snakevalleyhistoricalsociety",
     "Collection holder category": "Association, Club or Society",
@@ -6318,7 +6318,7 @@ window.tableData = [
     "Collection subjects": "Family and Family History, Life History/Story Interview, Local Communities and Local Histories",
     "Focus on first nations": "No",
     "Collection places": "Snake Valley & surrounding districts of Carngham, Chepstowe, Mt Emu, Mena Park, Mortchup, Coffee Hill, Bottle Hill, Canico and Hillcrest",
-    "Collection description": "Our oral history collection is comprised of the following:\nInterviews of local residents (around 13 interviews on cassette)\nRecordings of guest speakers who attended meetings in the 90's and 2000's (on cassette, some are difficult to hear).",
+    "Collection description": "Our oral history collection is comprised of the following:\nInterviews of local residents (around 13 interviews on cassette).\nRecordings of guest speakers who attended meetings in the 90's and 2000's (on cassette, some are difficult to hear).",
     "Collection purpose": "",
     "Number of interviews": "",
     "Hours": "",
@@ -6549,7 +6549,7 @@ window.tableData = [
     "Focus on first nations": "No",
     "Collection places": "Kew, Brighton",
     "Collection description": "Oral histories relating to the College campus at Brigton",
-    "Collection purpose": "For posterity. Some were specifically created for resarch to creat a history book.",
+    "Collection purpose": "For posterity. Some were specifically created for resarch to create a history book.",
     "Number of interviews": "",
     "Hours": "",
     "Average interview length": "",
@@ -6686,7 +6686,7 @@ window.tableData = [
     "Collection subjects": "Arts and Cultural Life, Environment, Place, and Natural Disasters, Family and Family History, First Nations People, Local Communities and Local Histories, Rural and Regional Life",
     "Focus on first nations": "Yes",
     "Collection places": "The Otways, Victoria",
-    "Collection description": "The Beech Forest History Series is an oral history collection capturing rich, multi-perspective narratives of Beech Forest and the surrounding Otway region. It features Open Discussions 1 &amp; 2 with Richard Collopy, Traditional Owner of Gadubanud Country, and Anthony Zappelli, President and Historian of the Otway Districts Historical Society and long-term Beech Forest resident. Their conversations explore the deep cultural, historical, and environmental layers of the region from both Indigenous and settler viewpoints. The collection also includes an audio recording of the Beech Forest Walking Tour, which provides an immersive storytelling experience through the landscape, including a powerful segment presented by a First Nations speaker.",
+    "Collection description": "The Beech Forest History Series is an oral history collection capturing rich, multi-perspective narratives of Beech Forest and the surrounding Otway region. It features Open Discussions 1 & 2 with Richard Collopy, Traditional Owner of Gadubanud Country, and Anthony Zappelli, President and Historian of the Otway Districts Historical Society and long-term Beech Forest resident. Their conversations explore the deep cultural, historical, and environmental layers of the region from both Indigenous and settler viewpoints. The collection also includes an audio recording of the Beech Forest Walking Tour, which provides an immersive storytelling experience through the landscape, including a powerful segment presented by a First Nations speaker.",
     "Collection purpose": "The Beech Forest History Series was created to preserve and share the diverse histories of Beech Forest and the Otway region, fostering a deeper understanding of place through both Indigenous and non-Indigenous voices. By documenting open conversations and local storytelling, the collection aims to honour Gadubanud Country, acknowledge the region's complex past, and promote cultural awareness, community connection, and intergenerational learning.",
     "Number of interviews": "2",
     "Hours": "1.5",
@@ -6711,7 +6711,7 @@ window.tableData = [
     "Collection publicly accessible": "Available Online",
     "Link if collection is available online": "https://www.otwayhistory.com/p/beech-forest-walking-and-driving-tour.html",
     "Catalogue/collection listing": "No",
-    "Link to online catalogue/finding aid": "https://www.youtube.com/watch?v=B6UD4pi2He0\nhttps://www.youtube.com/watch?v=IiLKYGEpEb8",
+    "Link to online catalogue/finding aid": "https://www.youtube.com/watch?v=B6UD4pi2He0 ; https://www.youtube.com/watch?v=IiLKYGEpEb8",
     "Outputs created by collection holder": "",
     "Any other information": ""
   },
@@ -6744,7 +6744,7 @@ window.tableData = [
     "Audio or audiovisual format": "Audiovisual",
     "Analogue or digital": "Unsure",
     "Audio format": "Other: on VHS video tape",
-    "Audiovisual format": "Digital Video (DV) tape, on VHS video tape",
+    "Audiovisual format": "Digital Video (DV) tape, Other: on VHS video tape",
     "Physical condition": "Unsure",
     "Audio quality": "Okay",
     "Consent forms": "No",
@@ -6804,7 +6804,7 @@ window.tableData = [
     "Link if collection is available online": "https://victoriancollections.net.au/stories/geelong-voices/geelong-voices-audio-interviews",
     "Catalogue/collection listing": "Partially",
     "Link to online catalogue/finding aid": "https://archives.grlc.vic.gov.au/",
-    "Outputs created by collection holder": "MA thesis\nSelf-published edited transcripts\nRadio program",
+    "Outputs created by collection holder": "MA thesis, Self-published edited transcripts, Radio program",
     "Any other information": ""
   },
   {
@@ -6962,7 +6962,7 @@ window.tableData = [
     "Collection subjects": "Family and Family History, Industry, Business, and Commerce, Life History/Story Interview, Local Communities and Local Histories",
     "Focus on first nations": "No",
     "Collection places": "Latrobe Valley",
-    "Collection description": "Audio cassettes and CD's of local family histories as well as interviews conducted by author of book titled \"Yallourn Power Station 1919-1989 Col Harvey.",
+    "Collection description": "Audio cassettes and CD's of local family histories as well as interviews conducted by author of book titled \"Yallourn Power Station 1919-1989\" Col Harvey.",
     "Collection purpose": "",
     "Number of interviews": "",
     "Hours": "",
@@ -7034,7 +7034,7 @@ window.tableData = [
     "Link if collection is available online": "",
     "Catalogue/collection listing": "Partially",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "-On 18/9/2025 I presented a seminar at the Greek Community of Melbourne, titled Stardust: the Golden Era of the Castellorizian Ladies Society of Victoria, 1961-1978 which relied heavily on several of these tapes for research (available on YouTube)\n-31/8/2025 the KAV did a cultural exhibition at the clubrooms using the tapes as a source for many exhibition items.\n-Several records of (2011- 2015) historical presentations using these tapes, held in the KAV archives ie the powerpoint presentation along with speaker notes.\n-2008 SBS Heirloom project\n-Journal articles - Yorker (MCG journal), GSV journal",
+    "Outputs created by collection holder": "On 18/9/2025 I presented a seminar at the Greek Community of Melbourne, titled Stardust: the Golden Era of the Castellorizian Ladies Society of Victoria, 1961-1978 which relied heavily on several of these tapes for research (available on YouTube).\n 31/8/2025 the KAV did a cultural exhibition at the clubrooms using the tapes as a source for many exhibition items.\n Several records of (2011- 2015) historical presentations using these tapes, held in the KAV archives ie the powerpoint presentation along with speaker notes.\n 2008 SBS Heirloom project.\n Journal articles - Yorker (MCG journal), GSV journal.",
     "Any other information": ""
   },
   {
@@ -7142,7 +7142,7 @@ window.tableData = [
     "Collection suburbs": "Birchip in Mallee in NW Victoria. 330 kms from Melbourne",
     "Collection postcodes": "3483",
     "Collection": "Birchip Historical Society Museum",
-    "Collection creater (if different from current collection holder)": "Interested persons , most now deceased in 1983",
+    "Collection creater (if different from current collection holder)": "Interested persons, most now deceased in 1983",
     "Collection subjects": "Arts and Cultural Life, Family and Family History, Farming and Agriculture, Life History/Story Interview, Local Communities and Local Histories, Rural and Regional Life, War, Women, Work",
     "Focus on first nations": "No",
     "Collection places": "Birchip and surrounding small communities",
@@ -7203,7 +7203,7 @@ window.tableData = [
     "Historical eras discussed": "1940s, 1950s, 1960s, 1970s, 1980s, 1990s, 2000s, 2010s, 2020s",
     "Audio or audiovisual format": "Audio-only",
     "Analogue or digital": "Analogue-only",
-    "Audio format": "Compact Cassette Tapes, DAT (Digital Audio Tapes), The first series of interviews (1990-93) are recorded on Compact Cassette Tapes, the second series (2023) are digitally recorded. - the formats are mp4, mpeg, m4a",
+    "Audio format": "Compact Cassette Tapes, DAT (Digital Audio Tapes), The first series of interviews (1990-93) are recorded on Compact Cassette Tapes, the second series (2023) are digitally recorded. The formats are mp4, mpeg, m4a",
     "Audiovisual format": "Not Applicable",
     "Physical condition": "Good condition",
     "Audio quality": "Good",
@@ -7218,7 +7218,7 @@ window.tableData = [
     "Link if collection is available online": "",
     "Catalogue/collection listing": "No",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "Two publications\n\nBook: Andrew Markus and Eileen Sims, 'Fourteen lives: paths to a multicultural community' (1993).\n\nBooklet, online source: Trish Prentice and Andrew Markus, 'Strong communities don't just happen. Springvale's story' (2024) Scanlon Foundation Research Institute, Narrative 12.  Available at\nhttps://www.communityhubs.org.au/wp-content/uploads/2024/07/SFRI-Narrative-12-final-copy.pdf",
+    "Outputs created by collection holder": "Two publications. \n\n Book: Andrew Markus and Eileen Sims, 'Fourteen lives: paths to a multicultural community' (1993).\n\nBooklet, online source: Trish Prentice and Andrew Markus, 'Strong communities don't just happen. Springvale's story' (2024) Scanlon Foundation Research Institute, Narrative 12.  Available at\nhttps://www.communityhubs.org.au/wp-content/uploads/2024/07/SFRI-Narrative-12-final-copy.pdf",
     "Any other information": ""
   },
   {
@@ -7330,7 +7330,7 @@ window.tableData = [
     "Collection subjects": "Arts and Cultural Life, Culturally and Linguistically Diverse Communities, Migration",
     "Focus on first nations": "No",
     "Collection places": "Greater Melbourne",
-    "Collection description": "The collection comprises interviews with owners, workers and audiences who were part of Greek and Italian language cinema circuits based in Melbourne during the period 1945-1985. Some interviews are in English, some in Italian and Greek respectively. Transcriptions and translations exist for most interviews. A further series f interviews were conducted with personnel involved in the Myrtleford Italian cinema. Some of these interviews formed a publication titled: Parlato in Italiano: The Heyday of Italian Cinema in Myrtleford in the 1960s (eds) John Taylor and Cynthia Troup, Myrtleford and District Historical Society.",
+    "Collection description": "The collection comprises interviews with owners, workers and audiences who were part of Greek and Italian language cinema circuits based in Melbourne during the period 1945-1985. Some interviews are in English, some in Italian and Greek respectively. Transcriptions and translations exist for most interviews. A further series of interviews were conducted with personnel involved in the Myrtleford Italian cinema. Some of these interviews formed a publication titled: Parlato in Italiano: The Heyday of Italian Cinema in Myrtleford in the 1960s (eds) John Taylor and Cynthia Troup, Myrtleford and District Historical Society.",
     "Collection purpose": "The collection was created as part of an academic research project called: Mapping the Movies: the changing nature of Australia's cinema circuits and their audiences, 1956-1984",
     "Number of interviews": "",
     "Hours": "",
@@ -7356,7 +7356,7 @@ window.tableData = [
     "Link if collection is available online": "https://caarp.com.au/",
     "Catalogue/collection listing": "No",
     "Link to online catalogue/finding aid": "https://caarp.com.au/",
-    "Outputs created by collection holder": "- https://caarp.com.au/\n- Parlato in Italiano: The Heyday of Italian Cinema in Myrtleford in the 1960s (eds) John Taylor and Cynthia Troup, Myrtleford and District Historical Society.\n- Deb Verhoeven, ‘Twice Born: Dionysos Films and the establishment of an antipodean Greek film circuit’ Studies in Australasian Cinema, 1:3, December, pp. 96-152\n- Colin Arrowsmith adn Deb Verhoeven, ‘Visualising cinema circuits: a case study in Greek cinema’ (with Colin Arrowsmith), Association of American Geographers Annual Conference, New York, 26th February\n- Deb Verhoeven Γεννημένος δυο φορές: η Dionysos Films και η δημιουργία ενός ελληνικού κινηματογραφικού κυκλώματος στην Αυστραλία Journal of Greek Film Studies 1:1, September, http://filmiconjournal.com\n- Deb Verhoeven, ‘Film distribution in the diaspora: Temporality, community and national cinema’, in (eds) Richard Maltby et al, Explorations in New Cinema History: Approaches and Case Studies, Wiley-Blackwell, pp. 243-260.\n-",
+    "Outputs created by collection holder": "https://caarp.com.au/; \n Parlato in Italiano: The Heyday of Italian Cinema in Myrtleford in the 1960s (eds) John Taylor and Cynthia Troup, Myrtleford and District Historical Society.;\n Deb Verhoeven, ‘Twice Born: Dionysos Films and the establishment of an antipodean Greek film circuit’ Studies in Australasian Cinema, 1:3, December, pp. 96-152; \n Colin Arrowsmith adn Deb Verhoeven, ‘Visualising cinema circuits: a case study in Greek cinema’ (with Colin Arrowsmith), Association of American Geographers Annual Conference, New York, 26th February; \n Deb Verhoeven Γεννημένος δυο φορές: η Dionysos Films και η δημιουργία ενός ελληνικού κινηματογραφικού κυκλώματος στην Αυστραλία Journal of Greek Film Studies 1:1, September, http://filmiconjournal.com; \n Deb Verhoeven, ‘Film distribution in the diaspora: Temporality, community and national cinema’, in (eds) Richard Maltby et al, Explorations in New Cinema History: Approaches and Case Studies, Wiley-Blackwell, pp. 243-260.",
     "Any other information": ""
   },
   {
@@ -7449,7 +7449,7 @@ window.tableData = [
     "Catalogue/collection listing": "No",
     "Link to online catalogue/finding aid": "",
     "Outputs created by collection holder": "",
-    "Any other information": "Happy to list the collection if of interest.\n\nUnsure of condition as tapes and cassettes have not been played for many years."
+    "Any other information": "Unsure of condition as tapes and cassettes have not been played for many years."
   },
   {
     "Id": "166",
@@ -7526,7 +7526,7 @@ window.tableData = [
     "Audio or audiovisual format": "Audio-only",
     "Analogue or digital": "Analogue and Digital",
     "Audio format": "Compact Cassette Tapes, Digital Audio Files (WAV, mp3, etc)",
-    "Audiovisual format": "Digital Files (MP4, mov, etc): mainly MP3 audio files but a couple of MP4 audio-visual files, several available on YouTube",
+    "Audiovisual format": "Digital Files (MP4, mov, etc): mainly MP3 audio files but a couple of MP4 audio-visual files, Other: several available on YouTube",
     "Physical condition": "Varies across the collection",
     "Audio quality": "Hard to Hear",
     "Consent forms": "No",
@@ -7632,7 +7632,7 @@ window.tableData = [
     "Link if collection is available online": "",
     "Catalogue/collection listing": "Yes",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "Four of the interviews have been used as source material for publications and one was conducted as preparation for an exhibition held at Duldig Studio in 2020-2022, 'Karl Duldig: A Living legacy'\n\nPublications:\nKen Bandman,1989, A Palette of Artists - a History of the Bezalel Fellowship of Artists, (Melbourne: Bezalel Fellowship of Arts in Melbourne)\nPeter Stasny (ed.), 2003, Karl Duldig: Sculpture, Drawings - catalogue of an exhibition (Vienna: Jewish Museum of the City of Vienna)",
+    "Outputs created by collection holder": "Four of the interviews have been used as source material for publications and one was conducted as preparation for an exhibition held at Duldig Studio in 2020-2022, 'Karl Duldig: A Living legacy'.\n\nPublications:\nKen Bandman,1989, A Palette of Artists - a History of the Bezalel Fellowship of Artists, (Melbourne: Bezalel Fellowship of Arts in Melbourne); \n Peter Stasny (ed.), 2003, Karl Duldig: Sculpture, Drawings - catalogue of an exhibition (Vienna: Jewish Museum of the City of Vienna).",
     "Any other information": ""
   },
   {
@@ -7675,10 +7675,10 @@ window.tableData = [
     "Overviews": "Some interviews have interview overviews",
     "Related materials": "Photographs of interviewees, Other photographs, Written sources (e.g. diaries, letters)",
     "Collection publicly accessible": "Available Online, Upon Request, Not Accessible",
-    "Link if collection is available online": "https://phillipislandhistory.org.au/publications/\nhttps://www.youtube.com/@phillipislanddistricthisto9047\nhttps://soundcloud.com/pidhs/tracks",
+    "Link if collection is available online": "https://phillipislandhistory.org.au/publications/ . \n https://www.youtube.com/@phillipislanddistricthisto9047 . \n https://soundcloud.com/pidhs/tracks .",
     "Catalogue/collection listing": "Partially",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "Radio program: Coastal Radio South Gippsland/Bass Coast Phillip Island local history series, 2016.\nIncluded in two books of historical talks and information available as free download pdfs from the society's website: 'Phillip Island History and Memories' and 'Phillip Island Life: 1920 - 2022'\nYouTube video series about Phillip Island during WWII and experiences of some local WWII servicemen, chicory growing, wreck of the SS Speke poem based on eye-witness accounts. \nUsed by the local newspaper Phillip Island & San Remo Advertiser for various articles, and in their book: 'Once Upon and Island'.",
+    "Outputs created by collection holder": "Radio program: Coastal Radio South Gippsland/Bass Coast Phillip Island local history series, 2016.\n Included in two books of historical talks and information available as free download pdfs from the society's website: 'Phillip Island History and Memories' and 'Phillip Island Life: 1920 - 2022'. \n YouTube video series about Phillip Island during WWII and experiences of some local WWII servicemen, chicory growing, wreck of the SS Speke poem based on eye-witness accounts. \n Used by the local newspaper Phillip Island & San Remo Advertiser for various articles, and in their book: 'Once Upon and Island'.",
     "Any other information": ""
   },
   {
@@ -8000,7 +8000,7 @@ window.tableData = [
     "Link if collection is available online": "",
     "Catalogue/collection listing": "No",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "phd thesis\nbook\njouirnal articles",
+    "Outputs created by collection holder": "phd thesis, book, journal articles.",
     "Any other information": ""
   },
   {
@@ -8046,7 +8046,7 @@ window.tableData = [
     "Link if collection is available online": "",
     "Catalogue/collection listing": "No",
     "Link to online catalogue/finding aid": "",
-    "Outputs created by collection holder": "Book: Ṉäku Dhäruk The Bark Petitions (2024)\nOnline essays and articles for The Conversation, The Guardian, Griffith Review",
+    "Outputs created by collection holder": "Book: Ṉäku Dhäruk The Bark Petitions (2024).\n Online essays and articles for The Conversation, The Guardian, Griffith Review.",
     "Any other information": ""
   },
   {
@@ -8112,7 +8112,7 @@ window.tableData = [
     "Collection subjects": "Arts and Cultural Life, Farming and Agriculture, First Nations People, Local Communities and Local Histories, Rural and Regional Life",
     "Focus on first nations": "Yes",
     "Collection places": "Shire of Nillumbik",
-    "Collection description": "Narrated video of the history and amenities of towns in the Nillumbik Shire, including the demise of the Wurundjeri First Nations People, and the gold rush.",
+    "Collection description": "Narrated video of the history and amenities of towns in the Nillumbik Shire, including discussion of the Wurundjeri First Nations People, and the gold rush.",
     "Collection purpose": "Promotional.",
     "Number of interviews": "",
     "Hours": "",
@@ -8144,7 +8144,7 @@ window.tableData = [
   {
     "Id": "181",
     "Contributor": "Alan Bluhm",
-    "Collection holder": "Andrew Ross museum",
+    "Collection holder": "Andrew Ross Museum",
     "Collection holder email": "andrewrossmuseum@outlook.org.au",
     "Collection holder website": "http://andrewrossmuseum.org.au",
     "Collection holder category": "Museum",
@@ -8480,7 +8480,7 @@ window.tableData = [
     "Collection subjects": "Local Communities and Local Histories",
     "Focus on first nations": "No",
     "Collection places": "Anglesea, Aireys Inlet and surrounds",
-    "Collection description": "1 collection of CDs, DVDs and VHS tapes created by a local history researcher\n2 collection of small videotapes of interviews conducted for the Society\n3 collection of cassette tapes of interviews carried out by local school pupils of local identities\n4 collection of interviews in digital format",
+    "Collection description": "1) collection of CDs, DVDs and VHS tapes created by a local history researcher.\n 2) collection of small videotapes of interviews conducted for the Society.\n 3) collection of cassette tapes of interviews carried out by local school pupils of local identities.\n 4) collection of interviews in digital format.",
     "Collection purpose": "All collections were created as part of the purposes of the Historical Society, i.e. to collect and preserve information and stories related to the cultural and social history of the district.",
     "Number of interviews": "",
     "Hours": "",
@@ -8618,7 +8618,7 @@ window.tableData = [
     "Collection subjects": "Family and Family History",
     "Focus on first nations": "No",
     "Collection places": "Kangaroo Ground",
-    "Collection description": "Two interviews with Mrs Noel Williams at her home and the Andrew Ross Museum, by Mick Woiwod. Noel lived at \"Nermone\" in Kangaroo Ground for over 50 years.",
+    "Collection description": "Two interviews with Mrs Noel Williams at her home and the Andrew Ross Museum, by Mick Woiwod.",
     "Collection purpose": "History of Kangaroo Ground and a long-time resident.",
     "Number of interviews": "2",
     "Hours": "",
@@ -8724,7 +8724,7 @@ window.tableRowData = [
     "id": "4",
     "contributor": "Stuart Hamilton",
     "collectionHolder": "Port Phillip Pioneers Group",
-    "collection": "Tapes of Talks to PPPG about ealry Victorian history",
+    "collection": "Tapes of Talks to PPPG about early Victorian history",
     "subjects": "Arts and Cultural Life, Culturally and Linguistically Diverse Communities, Education, Environment, Place, and Natural Disasters, Family and Family History, First Nations People, Local Communities and Local Histories, Migration, Rural and Regional Life, Women",
     "description": "Tapes of many of the addresses to the Port Phillip Pioneers Group about early Victorian history - white settlement, early settlers, social life, professions, indigenous vs settler issues etc"
   },
@@ -8750,7 +8750,7 @@ window.tableRowData = [
     "collectionHolder": "Melbourne's Living Museum of the West",
     "collection": "",
     "subjects": "Activism, Politics and Social Change, Culturally and Linguistically Diverse Communities, Family and Family History, First Nations People, Industry, Business, and Commerce, Local Communities and Local Histories, Migration, War, Women, Work",
-    "description": "The Museum’s oral history collection comprises over 700 recorded interviews on cassette tape, along with printed transcripts and, in some cases, summaries. Key themes explored in the collection include the role ofwomen, migration, and local industries such as munitions work, the Sunshine Harvester Works, and chaff mills. Notable subjects include The Life and Times of George Seelaf and 'The Lifeblood of Footscray,' project which focuses on the meat industry."
+    "description": "The Museum’s oral history collection comprises over 700 recorded interviews on cassette tape, along with printed transcripts and, in some cases, summaries. Key themes explored in the collection include the role of women, migration, and local industries such as munitions work, the Sunshine Harvester Works, and chaff mills. Notable subjects include The Life and Times of George Seelaf and 'The Lifeblood of Footscray,' project which focuses on the meat industry."
   },
   {
     "id": "8",
@@ -8787,7 +8787,7 @@ window.tableRowData = [
   {
     "id": "12",
     "contributor": "Bryan John Power",
-    "collectionHolder": "As above",
+    "collectionHolder": "Bryan John Power",
     "collection": "Rowville/Lysterfield interviews; North Shore/Norlane interviews; family history interviews",
     "subjects": "Family and Family History, Farming and Agriculture, Life History/Story Interview, Local Communities and Local Histories, Rural and Regional Life, War",
     "description": "Interviews with old residents of those places"
@@ -8798,7 +8798,7 @@ window.tableRowData = [
     "collectionHolder": "Arc up Australia",
     "collection": "Arc up oral histories",
     "subjects": "Activism, Politics and Social Change, Arts and Cultural Life, Culturally and Linguistically Diverse Communities, Family and Family History, First Nations People, Folklore, Local Communities and Local Histories, Migration, Refugees and Asylum Seekers, Specific Life Stages (Childhood, Youth, Midlife, Later Life), War, Women",
-    "description": "Archive if about 250-300 interviews documenting social experience, experiences of place, policy and war over past 50 years.\n50 interviews relate to the Italian Australian diaspora in Melbourne."
+    "description": "Archive of about 250-300 interviews documenting social experience, experiences of place, policy and war over past 50 years.\n50 interviews relate to the Italian Australian diaspora in Melbourne."
   },
   {
     "id": "14",
@@ -8830,7 +8830,7 @@ window.tableRowData = [
     "collectionHolder": "El Dorado Museum Association Inc",
     "collection": "",
     "subjects": "Family and Family History, Life History/Story Interview, Local Communities and Local Histories, Other: Open Day - activities and people",
-    "description": "Audio tapes of interviews\nVideos of local areas\nDVD compiled to tell a short history of El Dorado and its gold mining\nVideos of open days - activities and celebrations"
+    "description": "Audio tapes of interviews, Videos of local areas, DVD compiled to tell a short history of El Dorado and its gold mining, Videos of open days - activities and celebrations"
   },
   {
     "id": "18",
@@ -8939,10 +8939,10 @@ window.tableRowData = [
   {
     "id": "31",
     "contributor": "Dr Deborah Jordan",
-    "collectionHolder": "As above",
+    "collectionHolder": "Dr Deborah Jordan",
     "collection": "",
     "subjects": "Arts and Cultural Life, Other: Vance and Nettie Palmer",
-    "description": "Interviews  \nwith leading Australian writers and intellectuals in their homes. Discussion related to their knowledge of the Palmers. \nfor example with \nJudah Waten, \nKathleen Fitzpatrick, \nHelen and Aileen Palmer\nWalter Adamson, \nJohn Barnes, \nJean Blackburn, \nJean Campbell, \nA.R. Chisholm, \nNina and Clem Christesen, \nMarie Davison, \nBrian Elliot, \nHugh Esson,  \nEllsa Haus, \nEsther Levy, \nFrederick Macartney, \nJessie MacLeod, \nStephen Murray Smith, \nArthur Phillips,\nChristina Stead \nJudah and Hyrell Waten."
+    "description": "Interviews  \nwith leading Australian writers and intellectuals in their homes. Discussion related to their knowledge of the Palmers. \nfor example with \nJudah Waten, \nKathleen Fitzpatrick, \nHelen and Aileen Palmer\nWalter Adamson, \nJohn Barnes, \nJean Blackburn, \nJean Campbell, \nA.R. Chisholm, \nNina and Clem Christesen, \nMarie Davison, \nBrian Elliot, \nHugh Esson,  \nEllsa Haus, \nEsther Levy, \nFrederick Macartney, \nJessie MacLeod, \nStephen Murray Smith, \nArthur Phillips,\nChristina Stead, \nJudah and Hyrell Waten."
   },
   {
     "id": "32",
@@ -8995,7 +8995,7 @@ window.tableRowData = [
   {
     "id": "38",
     "contributor": "Ken Purdham",
-    "collectionHolder": "Ken Purdham, ETU, VIctoria",
+    "collectionHolder": "Ken Purdham, ETU, Victoria",
     "collection": "Ken Purdham Collection",
     "subjects": "Activism, Politics and Social Change, Local Communities and Local Histories, Work",
     "description": "Glass Factory - in writing the glass factory history I interviewed 60 people from the company President, Managers, Trades People and glassworkers.\n\nElectrical Trades Union - in writing that history I interviewed 200 plus electrical workers that go as far back as 1920s to present day. They include workers and union leaders and those interviews still go on as I build up my audio library."
@@ -9019,7 +9019,7 @@ window.tableRowData = [
   {
     "id": "41",
     "contributor": "Mairi Christina Neil",
-    "collectionHolder": "as above",
+    "collectionHolder": "Mairi Christina Neil",
     "collection": "Interviews to celebrate Mordialloc Primary School's 125th Anniversary",
     "subjects": "Education, Environment, Place, and Natural Disasters, Life History/Story Interview, Local Communities and Local Histories, Specific Life Stages (Childhood, Youth, Midlife, Later Life)",
     "description": "Interviews of past students, parents and teachers at Mordialloc Primary School recorded on cassettes in 1993, beginning with the then oldest surviving student 90 year old Alf Groves and ending with an interview of the first female Principal Joy Gale 1975-1981. The cut off date coincided with the first Federal Government money given\nto public primary schools by the Whitlam Government.\nQuestions related to Mordialloc Primary School and life at particular times. Each person signed a release that the interviews could be used for educational purposes to preserve the history of the school."
@@ -9038,7 +9038,7 @@ window.tableRowData = [
     "collectionHolder": "Robert Porter",
     "collection": "Transcript of Interview with Sir Gustav Nossal, 13 April 2023.",
     "subjects": "Industry, Business, and Commerce, Other: Australian political history - Interview conducted in preparation of a biography of Sir Paul Hasluck",
-    "description": "Interview with Sir Gus Nossal on his time as a director of Conzinc Riotinto of Australia\nNotes from interview with the following individuals as part of reserach on a biography of Sir Paul Hasluck (the interviews undertaken in 1989 and 1990) with notes of the discussion made afterwards:\nCol Adams, Former Director of Mines, Northern Territory\nDavid Anderson, Former Ambassador, South Vietnam\nGordon Bryant, Former Labor member of the House of Representatives\nDes Clancy, Former Patrol Officer and District Commissioner, Territory of Papua and New Guinea\nHugh Clarke (two discussions), Former officer of Department of Territories\nDame Rachel Cleland\nTom Critchley\nSir Allen Fairhall, MHR\nW.D. Forsyth, Former officer of the Department of External Affairs\nHarry Giese (by phone from Darwin on 27 January 1990), Former Director of native Welfare Branch, Northern Territory\nPeter Hastings, former journalist\nGordon Jockel, Former officer of the Department of External Affairs\nLes Johnson, Former Director of Education, P&NG\nReg Marsh (two sessions, including a meeting in Sydney). Former Assistant Secretary, Department of territories and Assistant Administrator, Northern Territory\nTony Newman. Former patrol officer, PNG\nSir Horace Niall, Former District Commissioner Morobe, Member of House of Assembly, P&NG\nDouglass Parrish. Former patrol office rising to District Officer, P&NG\nW. Pritchett, Former Officer Department of External Affairs\nAlan Renouf, Former officer of Department of External Affair, colleague of Hasluck at the United Nations\nClaude Reseigh. Former Assistant Secretary, Finance and Economics, Department of Territories\nRonald Rose\nSir David Smith, Former Official Secretary to Sir Paul Hasluck as Governor-General\nRobert Swift, former officer Department of Territories\nSir Arthur Tange. Former secretary, Department of External Affairs\nGerry Toogood, Former representative on the Trusteeship Council of the United Nations\nHarry West, Former District Commissioner, TPNG"
+    "description": "Interview with Sir Gus Nossal on his time as a director of Conzinc Riotinto of Australia;\n Notes from interview with the following individuals as part of reserach on a biography of Sir Paul Hasluck (the interviews undertaken in 1989 and 1990) with notes of the discussion made afterwards:\nCol Adams, Former Director of Mines, Northern Territory;\n David Anderson, Former Ambassador, South Vietnam;\n Gordon Bryant, Former Labor member of the House of Representatives;\n Des Clancy, Former Patrol Officer and District Commissioner, Territory of Papua and New Guinea;\n Hugh Clarke (two discussions), Former officer of Department of Territories;\n Dame Rachel Cleland;\n Tom Critchley;\n Sir Allen Fairhall, MHR;\n W.D. Forsyth, Former officer of the Department of External Affairs;\n Harry Giese (by phone from Darwin on 27 January 1990), Former Director of native Welfare Branch, Northern Territory;\n Peter Hastings, former journalist;\n Gordon Jockel, Former officer of the Department of External Affairs;\n Les Johnson, Former Director of Education, P&NG;\n Reg Marsh (two sessions, including a meeting in Sydney). Former Assistant Secretary, Department of territories and Assistant Administrator, Northern Territory;\n Tony Newman. Former patrol officer, PNG;\n Sir Horace Niall, Former District Commissioner Morobe, Member of House of Assembly, P&NG;\n Douglass Parrish. Former patrol office rising to District Officer, P&NG;\n W. Pritchett, Former Officer Department of External Affairs;\n Alan Renouf, Former officer of Department of External Affair, colleague of Hasluck at the United Nations;\n Claude Reseigh. Former Assistant Secretary, Finance and Economics, Department of Territories;\n Ronald Rose;\n Sir David Smith, Former Official Secretary to Sir Paul Hasluck as Governor-General;\n Robert Swift, former officer Department of Territories;\n Sir Arthur Tange. Former secretary, Department of External Affairs;\n Gerry Toogood, Former representative on the Trusteeship Council of the United Nations;\n Harry West, Former District Commissioner, TPNG."
   },
   {
     "id": "44",
@@ -9139,7 +9139,7 @@ window.tableRowData = [
   {
     "id": "57",
     "contributor": "Anthony McAleer OAM",
-    "collectionHolder": "AS ABOVE",
+    "collectionHolder": "Anthony McAleer OAM",
     "collection": "Anthony McAleer oral history collection",
     "subjects": "Activism, Politics and Social Change, Arts and Cultural Life, Culturally and Linguistically Diverse Communities, Life History/Story Interview, Local Communities and Local Histories, Migration, Rural and Regional Life, War, Women",
     "description": "Anthony McAleer OAM has written 25 books over 30 years. These are mainly to do with the history of the area formerly known as the Shire of Lillydale and includes the following townships. Wonga Park, Lilydale, Coldstream, Yering, Gruyere, Wandin, Seville, Silvan, Monbulk, Olinda, Kalorama, Mt Dandenong, Montrose, Kilsyth, Mooroolbark, Mt Evelyn. This large collection includes interviews with residents, former resident or those involved in the area. Includes many interviews with veterans from the WWI to the Gulf War."
@@ -9166,12 +9166,12 @@ window.tableRowData = [
     "collectionHolder": "Port Fairy Museum and Archives",
     "collection": "Port Fairy Museum and Archives",
     "subjects": "Family and Family History, Farming and Agriculture, Folklore, Life History/Story Interview, Local Communities and Local Histories",
-    "description": "cassette recordings of Pioneer Dinners from 1963 to 2015,  some personal interviews either cassette or CD and some now on Victorian Collections but not for sharing) , CDs of photos, DVDs of various local topics. film of historical places 1960's to 1980's.Some of these have been transferred to digital format (USB)\nMagnetic tapes of some speeches of local interest."
+    "description": "Cassette recordings of Pioneer Dinners from 1963 to 2015, some personal interviews either cassette or CD and some now on Victorian Collections but not for sharing , CDs of photos, DVDs of various local topics. Film of historical places 1960's to 1980's. Some of these have been transferred to digital format (USB). Magnetic tapes of some speeches of local interest."
   },
   {
     "id": "61",
     "contributor": "Renata Singer",
-    "collectionHolder": "Kadimah Jewish Cultural Centre and Natonal Library",
+    "collectionHolder": "Kadimah Jewish Cultural Centre and National Library",
     "collection": "",
     "subjects": "Activism, Politics and Social Change, Arts and Cultural Life, Culturally and Linguistically Diverse Communities, Local Communities and Local Histories, Migration, Other: Yiddish language, Yiddish culture and the history of the Kadimah",
     "description": "The joint Kadimah Yiddish Book Center audio visual collection focuses on the life and Yiddish upbringing of the interviewees.  There are about 30 Melbourne interviews.  These are a fully accessible, searchable on-line resource. \nThe 110th Anniversary Kadimah sound recordings relate to the interviewees' memories and experiences at the Kadimah, mostly when it was in Carlton.  There are about 20 of these.\nThe Kadimah archive has the full set of 3EA/SBS Yiddish programs, most of which include interviews.\nThe Kadimah archive has numerous sound recordings of Yiddish talks given at the Kadimah by local and overseas experts"
@@ -9179,7 +9179,7 @@ window.tableRowData = [
   {
     "id": "62",
     "contributor": "Erin Wilson",
-    "collectionHolder": "Emerald District Museum",
+    "collectionHolder": "Emerald & District Museum",
     "collection": "Emerald Museum Oral History Collection",
     "subjects": "Family and Family History, Farming and Agriculture, Industry, Business, and Commerce, Local Communities and Local Histories, Work",
     "description": "The interviews in the Emerald Museum Oral History Collection were recorded by Emerald Museum volunteers from 1982 to 2006. The interviewers and speakers all spent some or all of their early lives in Emerald or the nearby districts of Macclesfield, Avonsleigh, Clematis, Menzies Creek or Gembrook. They provide a personal record of family life, school and work, social life and entertainment, farming and timber cutting, township development, the Nobelius Nursery, Emerald Lake Park, and the restoration of the narrow gauge railway, popularly known as Puffing Billy."
@@ -9291,10 +9291,10 @@ window.tableRowData = [
   {
     "id": "76",
     "contributor": "Janine Smith",
-    "collectionHolder": "Merri- bek Libraries (Coburg)",
+    "collectionHolder": "Merri-bek Libraries (Coburg)",
     "collection": "Healthy Localities: Coburg Carers Project",
     "subjects": "Culturally and Linguistically Diverse Communities, Disability, Health and Welfare, Life History/Story Interview, Women",
-    "description": "- Videotapes - 3 copies of 'If everybody cared', 1 copy of Caring Concern Launch\n- 1 ring binder containing 'Healthy Localities Community Initiatives Scheme: Report / Evaluation Kit\n- 1 ring binder containing press clippings, flyers, questionares, journals kept by year 10 students responsible for\nthe video production, copies of photos and other assorted paperwork\n- 1 ring binder containing photos of the Banners Project taken at various Neighbourhood Houses and Health Centres in Coburg\n- Copies of Annual Reports - 1990-1991, 1991-1992, Final Report 1990-93\n- 2 copies of Acknowledging Carers - Coburg Carers their roles, needs and concerns report (July 1993)\n- Scrapbooks - one containing carer related newspaper cuttings and one containing healthy localities cuttings - 1 copy Get about Nutrition Project: Annual Report 1991 / 1992\n\n- 16 copies - of Carer's Voice Newsletter from between 1991 - 1993\n- Photos - 15 x 10cm colour - approximately 150 (some duplicates), also includes negatives for some photos \nPhotos - various sizes - black and white - approximately 50 some duplicates, some with negatives"
+    "description": "Videotapes - 3 copies of 'If everybody cared', 1 copy of Caring Concern Launch;\n 1 ring binder containing 'Healthy Localities Community Initiatives Scheme: Report / Evaluation Kit;\n 1 ring binder containing press clippings, flyers, questionares, journals kept by year 10 students responsible for the video production, copies of photos and other assorted paperwork; \n 1 ring binder containing photos of the Banners Project taken at various Neighbourhood Houses and Health Centres in Coburg;\n Copies of Annual Reports - 1990-1991, 1991-1992, Final Report 1990-93;\n 2 copies of Acknowledging Carers - Coburg Carers their roles, needs and concerns report (July 1993); \n Scrapbooks - one containing carer related newspaper cuttings and one containing healthy localities cuttings - 1 copy Get about Nutrition Project: Annual Report 1991 / 1992; \n 16 copies - of Carer's Voice Newsletter from between 1991 - 1993;\n Photos - 15 x 10cm colour - approximately 150 (some duplicates), also includes negatives for some photos;\n Photos - various sizes - black and white - approximately 50 some duplicates, some with negatives."
   },
   {
     "id": "77",
@@ -9302,7 +9302,7 @@ window.tableRowData = [
     "collectionHolder": "Merri-bek Libraries",
     "collection": "Coburg Oral History Project",
     "subjects": "Family and Family History, Life History/Story Interview, Local Communities and Local Histories",
-    "description": "- Cassette Tapes - 42 60 minute tapes and transcripts\n- 5 inch floppy discs x 20\n- Copies of various release forms, cover sheets and other correspondence related to the project"
+    "description": "Cassette Tapes - 42 60 minute tapes and transcripts; \n 5 inch floppy discs x 20;\n Copies of various release forms, cover sheets and other correspondence related to the project."
   },
   {
     "id": "78",
@@ -9342,7 +9342,7 @@ window.tableRowData = [
     "collectionHolder": "Merri-bek Libraries",
     "collection": "Peoples History of Brunswick",
     "subjects": "Activism, Politics and Social Change, Local Communities and Local Histories, Unemployment and Underemployment",
-    "description": "Explore the social and political history of Brunswick (Victoria, Australia) in the tumultuous years of the 1930s Depression via two audio tours by historians Melinda Barrie and Iain McIntyre.\n\nLock Out the Landlords : Brunswick in the Depression\nExplore the social and political history of Brunswick (Victoria, Australia) in the tumultuous years of the 1930s Depression. Join local historian Iain McIntyre to explore the collective organising of workers, families and residents in Brunswick as they fight for their survival.\nAudio recorded by Nicole Hurtubise, as part of the People's Tours of History project produced by Jane Curtis with 3CR Community Radio. http://peoplestour.net/\nEchoes tour produced by Moreland City Libraries.\n\nNoel Counihan and the Brunswick free speech fight\nJoin historian and archivist Melinda Barrie as she takes you in the footsteps of Noel Counihan and the Brunswick free speech fight. From the theatres, factories and soap-boxes of Brunswick; to dissidents riding atop street-cars and locking themselves in cages to escape arrest. Brunswick was a place of mass mobilisation and dissent.\nTour developed by Melinda Barrie, produced by Teishan Ahearne with Moreland City Libraries."
+    "description": "Explore the social and political history of Brunswick (Victoria, Australia) in the tumultuous years of the 1930s Depression via two audio tours by historians Melinda Barrie and Iain McIntyre.\nLock Out the Landlords : Brunswick in the Depression.\nExplore the social and political history of Brunswick (Victoria, Australia) in the tumultuous years of the 1930s Depression. Join local historian Iain McIntyre to explore the collective organising of workers, families and residents in Brunswick as they fight for their survival.\nAudio recorded by Nicole Hurtubise, as part of the People's Tours of History project produced by Jane Curtis with 3CR Community Radio. http://peoplestour.net/ .\nEchoes tour produced by Moreland City Libraries.\nNoel Counihan and the Brunswick free speech fight.\nJoin historian and archivist Melinda Barrie as she takes you in the footsteps of Noel Counihan and the Brunswick free speech fight. From the theatres, factories and soap-boxes of Brunswick; to dissidents riding atop street-cars and locking themselves in cages to escape arrest. Brunswick was a place of mass mobilisation and dissent.\nTour developed by Melinda Barrie, produced by Teishan Ahearne with Moreland City Libraries."
   },
   {
     "id": "83",
@@ -9390,7 +9390,7 @@ window.tableRowData = [
     "collectionHolder": "Merri-bek Libraries (Merri-bek City Council)",
     "collection": "Les Barnes Interviews",
     "subjects": "Activism, Politics and Social Change, Arts and Cultural Life, Environment, Place, and Natural Disasters, Family and Family History, Industry, Business, and Commerce, Life History/Story Interview, Local Communities and Local Histories, Migration, Religion and Spirituality, Science, Technology and Innovation, Sport and Leisure, Unemployment and Underemployment, War, Women, Work, Other: Also includes involvement in research/printing of 'Power without Glory' novel by Frank Hardy",
-    "description": "Maximum of 5 hours of interviews in 1979 by prominent local printer, activist and historian, Les Barnes\n(1905-1994). Interview was undertaken by field work student Norma Martin. Start of each tape includes short list of topics covered. Currently analogue only but with aim to digitize in 2025."
+    "description": "Maximum of 5 hours of interviews in 1979 by prominent local printer, activist and historian, Les Barnes (1905-1994). Interview was undertaken by field work student Norma Martin. Start of each tape includes short list of topics covered. Currently analogue only but with aim to digitize in 2025."
   },
   {
     "id": "89",
@@ -9454,12 +9454,12 @@ window.tableRowData = [
     "collectionHolder": "Apollo Bay & District Historical Society",
     "collection": "",
     "subjects": "Environment, Place and Natural Disasters, Family and Family History, Farming and Agriculture, Life History/Story Interview, Local Communities and Local Histories, Rural and Regional Life, War, Work, Other: Maritime history",
-    "description": "Audio Casett Tape Interviews with local residents\nVHS Video Tape Interviews wityh local residents –\nMp3 interviews with local residents – 16\nMp4 interviews with local residents – 18\nTranscripts of interviews with local residents – 24"
+    "description": "Audio Casett Tape Interviews with local residents,\nVHS Video Tape Interviews with local residents –,\nMp3 interviews with local residents – 16,\nMp4 interviews with local residents – 18,\nTranscripts of interviews with local residents – 24"
   },
   {
     "id": "97",
     "contributor": "Grace Kathryn Trist",
-    "collectionHolder": "Monash Student ASsociation",
+    "collectionHolder": "Monash Student Association",
     "collection": "MSA Archive Oral History Project 2025",
     "subjects": "Activism, Politics and Social Change, Arts and Cultural Life, Education, Local Communities and Local Histories, Specific Life Stages (Childhood, Youth, Midlife, Later Life), Women",
     "description": "Collecting oral histories of ex-students who were involved in Monash Uni student life and activism in the 60s, 70s, 80s"
@@ -9494,13 +9494,13 @@ window.tableRowData = [
     "collectionHolder": "Johnny Mullagh Interpretive Centre",
     "collection": "",
     "subjects": "First Nations People, Life History/Story Interview, Sport and Leisure",
-    "description": "Our museum tells the story of Unaarrimin-Johnny Mullagh and the First XI of 1868, the first team to represent Australia in any sport. They were a corageous group of men from western Victoria that were, all but one, Aboriginal. We have a collection of videos and dvd's of people, some descendants, of this story that needs preserving.\nWe also have significant items that are irreplaceable that are connected to the story."
+    "description": "Our museum tells the story of Unaarrimin-Johnny Mullagh and the First XI of 1868, the first team to represent Australia in any sport. They were a courageous group of men from western Victoria that were, all but one, Aboriginal. We have a collection of videos and dvd's of people, some descendants, of this story that needs preserving.\nWe also have significant items that are irreplaceable that are connected to the story."
   },
   {
     "id": "102",
     "contributor": "Ken Mansell",
     "collectionHolder": "Ken Mansell",
-    "collection": "memories of members of Communist Party of Australia who were members in period 1930-1956",
+    "collection": "Memories of members of Communist Party of Australia who were members in period 1930-1956",
     "subjects": "Activism, Politics and Social Change",
     "description": "Interviews with Australian Communists who were members of the Communist Party in 1930-1956 period.\nThe collection I am referring to here are copies (cassette tapes) of all the original taped interviews now housed in the State Library of NSW Oral History Collection.\nThese copies of the original tapes were provided to me (as I gradually deposited the original tapes) by the State Library of NSW over a period of about ten years in the nineties ."
   },
@@ -9550,7 +9550,7 @@ window.tableRowData = [
     "collectionHolder": "Boroondara Heritage Collection at Boroondara Library Service",
     "collection": "North Balwyn RSL Sub-Branch Archive - Wartime experiences of Community Members",
     "subjects": "War",
-    "description": "\"Wartime experiences of Community Members\" is an Oral History Collection recorded with members of the North Balwyn RSL Sub-Branch around 1997. Interview details:\nArthur Sandell on Catalina Flying Boats\nBrigadier Sarong?. Vietnam\nIvor White 2/5 Inf Bn. Experiences of a foots logger Joan Wicks - Experiences of a nurse in wartime Robert Sangster - War Experiences\nLachlan McSweeney - Merchant Navy\nBob Asker - Bomber Command\nEvan Philp. Capt Milne Bay 1942\nFrank Bartlett - Memories of an R.A.A.F man in WW11 Max Beaumont - Memories of a medical unit in war Wal Brigden - The Dam Busters\nJohn Danby an ACK - ACK Gunners memoirs\nFrank Jordan 2/2 Machine Gun Bn.\nFrank Kuffer - An RAAF Medical Man\nRobert Sangster aboard the Queen Mary\nJock Moodey with BCOF in Japan\nJohn Payne - A spitfire pilot in Burma\nTed Jane - Naval Experience NBRSL 3/10/1997\nPat Melican with the R.A.A.F in Korea\nHarry Smith - Vietnam Story\nColin Hamley 2/2 Pioneer BN - A trip around S.E.Asia R.Webster - Vietnam"
+    "description": "\"Wartime experiences of Community Members\" is an Oral History Collection recorded with members of the North Balwyn RSL Sub-Branch around 1997. Interview details:\nArthur Sandell on Catalina Flying Boats; \n Brigadier Sarong?. Vietnam; \n Ivor White 2/5 Inf Bn. Experiences of a foots logger Joan Wicks - Experiences of a nurse in wartime Robert Sangster - War Experiences;\n Lachlan McSweeney - Merchant Navy;\n Bob Asker - Bomber Command;\n Evan Philp. Capt Milne Bay 1942;\n Frank Bartlett - Memories of an R.A.A.F man in WW11 Max Beaumont - Memories of a medical unit in war Wal Brigden - The Dam Busters; \n John Danby an ACK - ACK Gunners memoirs; \n Frank Jordan 2/2 Machine Gun Bn.; \n Frank Kuffer - An RAAF Medical Man; \n Robert Sangster aboard the Queen Mary; \n Jock Moodey with BCOF in Japan; \n John Payne - A spitfire pilot in Burma; \n Ted Jane - Naval Experience NBRSL 3/10/1997; \n Pat Melican with the R.A.A.F in Korea; \n Harry Smith - Vietnam Story; \n Colin Hamley 2/2 Pioneer BN - A trip around S.E.Asia R.Webster - Vietnam."
   },
   {
     "id": "109",
@@ -9574,7 +9574,7 @@ window.tableRowData = [
     "collectionHolder": "Boroondara Heritage Collection at Boroondara Library Service",
     "collection": "Assorted Boroondara Oral History Interviews",
     "subjects": "Family and Family History, Life History/Story Interview, Local Communities and Local Histories, War, Work",
-    "description": "Assorted Boroondara Oral History Interviews: Tom Hoey Interview by John Hilvert Recollections of Hawthorn Mr. Partridge, interview by Elaine Warne\nElaine Carty - Deborah Zion Interview 774 3LO\nBetty Fitts: Circulating Libraries based in Hawthorn at the beginning of the war 1987\nAustralia Remembers Oral History tapes: \"The War At Home\" 1995 Dr Una Porter & Mrs Desda 1980\nSid Dodman Interview\nMrs Eileen Hall Interview\nMrs De Clifford Interview\nMiss Vera Lynch Interview\nMrs Lillian Brockway Interview\nMrs Leila St John Interview\nCharles Hansen & Jack Mclean Interview\nFrank Mason & Mrs Mason Interview\nGil Muling Interview\nBob Partington Interview\nBruce Steele Interview\nMrs Mavis Nichell Interview\nMrs Joan Thorn (Dr Joan Darbyshire)\nMrs Kinneer Interview Tape 1 & 2\nMrs Dorothy Prestegar Interview\nHarold Oakford Interview\nFR. Michael Rafter - Sacred Heart - & Mr J.Obrien - Retired Postman -\nMr Wilson & Paul Cronin -\nMrs C. Robinson - shopkeeper 1918 & Mr Peter Hoban - Kew resident rotarian\nDr M.Milvain - Normanby Road\nMr Douglas Keep - 17/7/1982, & Cr Allen Martin - Mayor - 12/9/1988\nAllan Martin & Hon Justice MD Kirby.\nMrs Soley\nMr Gerard Cramer - Headmaster Carey Grammer. 24/11/1988. & Mr Vin Doquile - Spillers Pharmacy (Cnr Glenferrie & Cotham) 9/3/1989\nKirsty Seccombe\nMiss H.M Houston (1981) & Mrs Witchell (23/6/1984)\nJane Bate (30/9/1982) & Mrs Rothwell (8/4/1982)\nMr Lance Davies & sister Mrs Greenwood 4/7/1987 & Miss Eva Grant (22/10/1982)\nMiss Ina Ramsay reminiscences of Kew (12/2/1982) & Hon andrew Peacock Interview (12/2/1982)\nAlex Tarr (1980) & Mr Wilson Post Office\nOral History from Ashburton - Shops and shopping in Ashburton 1985\nThe Morton's Bakers of East Kew"
+    "description": "Assorted Boroondara Oral History Interviews: Tom Hoey Interview by John Hilvert Recollections of Hawthorn Mr. Partridge, interview by Elaine Warne; \n Elaine Carty - Deborah Zion Interview 774 3LO; \n Betty Fitts: Circulating Libraries based in Hawthorn at the beginning of the war 1987; \n Australia Remembers Oral History tapes: \"The War At Home\" 1995 Dr Una Porter & Mrs Desda 1980; \n Sid Dodman Interview; \n Mrs Eileen Hall Interview; \n Mrs De Clifford Interview; \n Miss Vera Lynch Interview; \n Mrs Lillian Brockway Interview; \n Mrs Leila St John Interview; \n Charles Hansen & Jack Mclean Interview; \n Frank Mason & Mrs Mason Interview; \n Gil Muling Interview; \n Bob Partington Interview; \n Bruce Steele Interview; \n Mrs Mavis Nichell Interview; \n Mrs Joan Thorn (Dr Joan Darbyshire); \n Mrs Kinneer Interview Tape 1 & 2; \n Mrs Dorothy Prestegar Interview; \n Harold Oakford Interview; \n FR. Michael Rafter - Sacred Heart - & Mr J.Obrien - Retired Postman; \n Mr Wilson & Paul Cronin; \n Mrs C. Robinson - shopkeeper 1918 & Mr Peter Hoban - Kew resident rotarian; \n Dr M.Milvain - Normanby Road; \n Mr Douglas Keep - 17/7/1982, & Cr Allen Martin - Mayor - 12/9/1988; \n Allan Martin & Hon Justice MD Kirby; \n Mrs Soley; \n Mr Gerard Cramer - Headmaster Carey Grammer. 24/11/1988. & Mr Vin Doquile - Spillers Pharmacy (Cnr Glenferrie & Cotham) 9/3/1989; \n Kirsty Seccombe; \n Miss H.M Houston (1981) & Mrs Witchell (23/6/1984); \n Jane Bate (30/9/1982) & Mrs Rothwell (8/4/1982); \n Mr Lance Davies & sister Mrs Greenwood 4/7/1987 & Miss Eva Grant (22/10/1982); \n Miss Ina Ramsay reminiscences of Kew (12/2/1982) & Hon andrew Peacock Interview (12/2/1982); \n Alex Tarr (1980) & Mr Wilson Post Office; \n Oral History from Ashburton - Shops and shopping in Ashburton 1985; \n The Morton's Bakers of East Kew."
   },
   {
     "id": "113",
@@ -9614,7 +9614,7 @@ window.tableRowData = [
     "collectionHolder": "Boroondara Heritage Collection at Boroondara Library Service",
     "collection": "\"Living Hawthorn\"",
     "subjects": "Local Communities and Local Histories",
-    "description": "Living Hawthorn Master,1906 and 1988 - Source 16mm Film, video cassettes\n\"Suburban streetscape: Living Hawthorn 1906 and 1979\" Deakin University Media Production 1980 and Audio FX Dubbing Master\nSuburban Streetscape - Living Hawthorn 1904-1979, 1979 VHS tape\nPerspective on Hawthorn video cassette, 1985 (Kit and discussion notes)"
+    "description": "Living Hawthorn Master, 1906 and 1988 - Source 16mm Film, video cassettes; \n \"Suburban streetscape: Living Hawthorn 1906 and 1979\" Deakin University Media Production 1980 and Audio FX Dubbing Master; \n Suburban Streetscape - Living Hawthorn 1904-1979, 1979 VHS tape; \n Perspective on Hawthorn video cassette, 1985 (Kit and discussion notes)."
   },
   {
     "id": "118",
@@ -9726,7 +9726,7 @@ window.tableRowData = [
     "collectionHolder": "Murchison and District Historical Society",
     "collection": "",
     "subjects": "Family and Family History, Farming and Agriculture, Life History/Story Interview, Local Communities and Local Histories, Rural and Regional Life",
-    "description": "Interviews of local identities\nFamily history\nSignificant local events\nDevelopment of the township"
+    "description": "Interviews of local identities, Family history, Significant local events, Development of the township."
   },
   {
     "id": "133",
@@ -9734,7 +9734,7 @@ window.tableRowData = [
     "collectionHolder": "Werribee District Historical Society",
     "collection": "",
     "subjects": "Family and Family History, Life History/Story Interview, Local Communities and Local Histories",
-    "description": "First collection is auio interviews with members of the community,  2nd collection  is still in progress  video interviews"
+    "description": "First collection is audio interviews with members of the community,  2nd collection  is still in progress  video interviews"
   },
   {
     "id": "134",
@@ -9758,7 +9758,7 @@ window.tableRowData = [
     "collectionHolder": "Pentridge Voices",
     "collection": "Pentridge Voices",
     "subjects": "",
-    "description": "Pentridge Voices records personal accounts of people who were directly involved with Pentridge Prison in Coburg, Victoria, in order to preserve this firsthand history\nThe collection includes interviews with former prisoners, former staff, and individuals with a unique connection to the former prison."
+    "description": "Pentridge Voices records personal accounts of people who were directly involved with Pentridge Prison in Coburg, Victoria, in order to preserve this firsthand history. The collection includes interviews with former prisoners, former staff, and individuals with a unique connection to the former prison."
   },
   {
     "id": "137",
@@ -9795,10 +9795,10 @@ window.tableRowData = [
   {
     "id": "141",
     "contributor": "Esther Yeoman",
-    "collectionHolder": "Snake Valley & Distrcit Historical Society",
+    "collectionHolder": "Snake Valley & District Historical Society",
     "collection": "",
     "subjects": "Family and Family History, Life History/Story Interview, Local Communities and Local Histories",
-    "description": "Our oral history collection is comprised of the following:\nInterviews of local residents (around 13 interviews on cassette)\nRecordings of guest speakers who attended meetings in the 90's and 2000's (on cassette, some are difficult to hear)."
+    "description": "Our oral history collection is comprised of the following:\nInterviews of local residents (around 13 interviews on cassette).\nRecordings of guest speakers who attended meetings in the 90's and 2000's (on cassette, some are difficult to hear)."
   },
   {
     "id": "142",
@@ -9862,7 +9862,7 @@ window.tableRowData = [
     "collectionHolder": "Otway Districts Historical Society",
     "collection": "Beech Forest History Series",
     "subjects": "Arts and Cultural Life, Environment, Place, and Natural Disasters, Family and Family History, First Nations People, Local Communities and Local Histories, Rural and Regional Life",
-    "description": "The Beech Forest History Series is an oral history collection capturing rich, multi-perspective narratives of Beech Forest and the surrounding Otway region. It features Open Discussions 1 &amp; 2 with Richard Collopy, Traditional Owner of Gadubanud Country, and Anthony Zappelli, President and Historian of the Otway Districts Historical Society and long-term Beech Forest resident. Their conversations explore the deep cultural, historical, and environmental layers of the region from both Indigenous and settler viewpoints. The collection also includes an audio recording of the Beech Forest Walking Tour, which provides an immersive storytelling experience through the landscape, including a powerful segment presented by a First Nations speaker."
+    "description": "The Beech Forest History Series is an oral history collection capturing rich, multi-perspective narratives of Beech Forest and the surrounding Otway region. It features Open Discussions 1 & 2 with Richard Collopy, Traditional Owner of Gadubanud Country, and Anthony Zappelli, President and Historian of the Otway Districts Historical Society and long-term Beech Forest resident. Their conversations explore the deep cultural, historical, and environmental layers of the region from both Indigenous and settler viewpoints. The collection also includes an audio recording of the Beech Forest Walking Tour, which provides an immersive storytelling experience through the landscape, including a powerful segment presented by a First Nations speaker."
   },
   {
     "id": "150",
@@ -9910,7 +9910,7 @@ window.tableRowData = [
     "collectionHolder": "Yallourn North & District Historical Society",
     "collection": "Local History",
     "subjects": "Family and Family History, Industry, Business, and Commerce, Life History/Story Interview, Local Communities and Local Histories",
-    "description": "Audio cassettes and CD's of local family histories as well as interviews conducted by author of book titled \"Yallourn Power Station 1919-1989 Col Harvey."
+    "description": "Audio cassettes and CD's of local family histories as well as interviews conducted by author of book titled \"Yallourn Power Station 1919-1989\" Col Harvey."
   },
   {
     "id": "156",
@@ -9974,7 +9974,7 @@ window.tableRowData = [
     "collectionHolder": "Deb Verhoeven",
     "collection": "",
     "subjects": "Arts and Cultural Life, Culturally and Linguistically Diverse Communities, Migration",
-    "description": "The collection comprises interviews with owners, workers and audiences who were part of Greek and Italian language cinema circuits based in Melbourne during the period 1945-1985. Some interviews are in English, some in Italian and Greek respectively. Transcriptions and translations exist for most interviews. A further series f interviews were conducted with personnel involved in the Myrtleford Italian cinema. Some of these interviews formed a publication titled: Parlato in Italiano: The Heyday of Italian Cinema in Myrtleford in the 1960s (eds) John Taylor and Cynthia Troup, Myrtleford and District Historical Society."
+    "description": "The collection comprises interviews with owners, workers and audiences who were part of Greek and Italian language cinema circuits based in Melbourne during the period 1945-1985. Some interviews are in English, some in Italian and Greek respectively. Transcriptions and translations exist for most interviews. A further series of interviews were conducted with personnel involved in the Myrtleford Italian cinema. Some of these interviews formed a publication titled: Parlato in Italiano: The Heyday of Italian Cinema in Myrtleford in the 1960s (eds) John Taylor and Cynthia Troup, Myrtleford and District Historical Society."
   },
   {
     "id": "164",
@@ -10110,12 +10110,12 @@ window.tableRowData = [
     "collectionHolder": "Andrew Ross Museum",
     "collection": "The Nillumbik Story - History, Arts and Environment",
     "subjects": "Arts and Cultural Life, Farming and Agriculture, First Nations People, Local Communities and Local Histories, Rural and Regional Life",
-    "description": "Narrated video of the history and amenities of towns in the Nillumbik Shire, including the demise of the Wurundjeri First Nations People, and the gold rush."
+    "description": "Narrated video of the history and amenities of towns in the Nillumbik Shire, including discussion of the Wurundjeri First Nations People, and the gold rush."
   },
   {
     "id": "181",
     "contributor": "Alan Bluhm",
-    "collectionHolder": "Andrew Ross museum",
+    "collectionHolder": "Andrew Ross Museum",
     "collection": "Andrew Ross Remiscences",
     "subjects": "Education, Farming and Agriculture, Life History/Story Interview, Local Communities and Local Histories, Rural and Regional Life",
     "description": "Narration by Norma Jordan of the written reminiscences of Kangaroo Ground's first teacher, Andrew Ross, on four audio cassettes."
@@ -10174,7 +10174,7 @@ window.tableRowData = [
     "collectionHolder": "Anglesea & District Historical Society",
     "collection": "",
     "subjects": "Local Communities and Local Histories",
-    "description": "1 collection of CDs, DVDs and VHS tapes created by a local history researcher\n2 collection of small videotapes of interviews conducted for the Society\n3 collection of cassette tapes of interviews carried out by local school pupils of local identities\n4 collection of interviews in digital format"
+    "description": "1) collection of CDs, DVDs and VHS tapes created by a local history researcher.\n 2) collection of small videotapes of interviews conducted for the Society.\n 3) collection of cassette tapes of interviews carried out by local school pupils of local identities.\n 4) collection of interviews in digital format."
   },
   {
     "id": "189",
@@ -10198,7 +10198,7 @@ window.tableRowData = [
     "collectionHolder": "Andrew Ross Museum",
     "collection": "Interviews with Noel Williams on 17 & 26 October 2005",
     "subjects": "Family and Family History",
-    "description": "Two interviews with Mrs Noel Williams at her home and the Andrew Ross Museum, by Mick Woiwod. Noel lived at \"Nermone\" in Kangaroo Ground for over 50 years."
+    "description": "Two interviews with Mrs Noel Williams at her home and the Andrew Ross Museum, by Mick Woiwod."
   },
   {
     "id": "192",

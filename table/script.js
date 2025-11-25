@@ -15,6 +15,8 @@ function showPopup(dataOrIndex) {
 
   const keyReplacements = {
     "Assigned Submission Number": "ID",
+    "Id": "ID",
+    "Focus on first nations": "Focus on First Nations",
   };
 
   let tableHtml = "<h3>Full data</h3><table>";

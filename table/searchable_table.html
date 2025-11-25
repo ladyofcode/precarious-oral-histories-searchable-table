@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Searchable Table</title>
+    <title>Searchable Table | Precarious Oral Histories</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;600;700&display=swap"
@@ -16,20 +16,36 @@
         <div id="termsContent">
             <div class="terms-text">
                 <p>This database contains a list of precarious oral history collections in Victoria with information
-                    about each collection as reported to the Identifying Precarious Victorian Oral History Collections
-                    Project between May–September 2025.</p>
-                <p>This database raises awareness of the extent and condition of precarious oral history collections in
-                    Victoria. Many listed collections are not accessible.</p>
-                <p>You do not have permission to reproduce or disseminate any information in this database.</p>
-                <p>There are many other oral history collections in Victoria that have not been identified by this
-                    project and are not included in this database.</p>
-                <p>Precarious collections are at risk of not surviving. If you wish to assist in any future efforts to
-                    support precarious oral history collections, please <a
+                    about each collection that was reported to the Identifying Precarious Victorian Oral History
+                    Collections Project between May–September 2025. Information about each listed collection was
+                    supplied to the project by the collection holder (or their authorised representative).
+                </p>
+                <p>
+                    This database raises awareness of the extent and condition of precarious oral history collections in
+                    Victoria. We hope this will spark further initiatives that support precarious oral history
+                    collections.
+                </p>
+                <p>
+                    Precarious collections are at risk of not surviving. There are many other oral history collections
+                    in Victoria that have not been identified by this project and are not included in this database. If
+                    you wish to assist in any future efforts to support precarious oral history collections, please <a
                         href="https://precariousoralhistories.com/contact/" target="_blank"
-                        rel="noopener noreferrer">contact us</a>.</p>
-                <p>This database was created in late 2025 by the Identifying Precarious Victorian Oral History Collections Project, an initiative of the Language Data Commons of Australia (LDaCA) at the Australian National University. Learn about the project: <a
+                        rel="noopener noreferrer">contact us</a>.
+                </p>
+                <p>
+                    Please note that many collections listed in the database are not accessible. You do not have
+                    permission to reproduce or republish the information in this database, and it cannot be scraped for
+                    any purpose including AI and machine learning.
+                </p>
+                <p>
+                    This database was created in late 2025 by the Identifying Precarious Victorian Oral History
+                    Collections Project, an initiative of the <a href="https://www.ldaca.edu.au/" target="_blank"
+                        rel="noopener noreferrer">Language Data Commons of Australia (LDaCA)</a> at the
+                    Australian National University. Learn about the project and access the Project Report that
+                    corresponds with this database at: <a
                         href="https://precariousoralhistories.com/" target="_blank"
-                        rel="noopener noreferrer">www.precariousoralhistories.com</a>.</p>
+                        rel="noopener noreferrer">https://precariousoralhistories.com</a>.
+                </p>
             </div>
             <button id="acceptButton">Accept</button>
         </div>
@@ -37,7 +53,7 @@
 
     <h1>A database identifying precarious Victorian oral history collections</h1>
 
-    <div id="tagCloud"><strong>Filter by subjects</strong><br><span class="tag-filter"
+    <div id="tagCloud"><strong>Filter by collection subjects</strong><br><span class="tag-filter"
             data-tag="Activism, Politics and Social Change">Activism, politics and social change</span> <span
             class="tag-filter" data-tag="Arts and Cultural Life">Arts and cultural life</span> <span class="tag-filter"
             data-tag="Culturally and Linguistically Diverse Communities">Culturally and linguistically diverse
@@ -63,9 +79,9 @@
             data-tag="Sport and Leisure">Sport and leisure</span> <span class="tag-filter"
             data-tag="Unemployment and Underemployment">Unemployment and underemployment</span> <span class="tag-filter"
             data-tag="War">War</span> <span class="tag-filter" data-tag="Women">Women</span> <span class="tag-filter"
-            data-tag="Work">Work</span> <span class="tag-filter" data-tag="Unknown">Unknown</span> <span class="tag-filter"
-            data-tag="Other">Other</span> <br><button
-            id="clearTagFilter">Clear subject filter</button>
+            data-tag="Work">Work</span> <span class="tag-filter" data-tag="Unknown">Unknown</span> <span
+            class="tag-filter" data-tag="Other">Other</span> <br><button id="clearTagFilter">Clear subject
+            filter</button>
     </div>
 
     <input type="text" id="searchInput" placeholder="Search the whole table...">
@@ -84,7 +100,7 @@
             <tr>
                 <th>Contributor</th>
                 <th>Collection holder</th>
-                <th>Collection</th>
+                <th>Collection name</th>
                 <th>Collection subjects</th>
                 <th>Collection description</th>
                 <th>ID</th>

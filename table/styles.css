@@ -100,21 +100,43 @@ tr.hide { display: none; }
   margin-top: 10px;
 }
 
+#popupContent tr {
+  display: flex;
+  width: 100%;
+}
+
 #popupContent th,
 #popupContent td {
   border: 1px solid var(--clr-border);
   padding: 10px;
   text-align: left;
   vertical-align: top;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 #popupContent th {
   background-color: var(--clr-green-header);
   color: var(--clr-text-dark);
+  flex: 0 1 400px;
+  max-width: 400px;
+  min-width: 150px;
 }
 
 #popupContent td {
   background-color: transparent;
+  flex: 1;
+  min-width: 0;
+}
+
+#dataTable thead {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+#dataTable thead th {
+  background-color: var(--clr-green-header);
 }
 
 #dataTable td:last-child,
@@ -192,7 +214,7 @@ tr.hide { display: none; }
   padding: 2.4rem;
   border-radius: 8px;
   text-align: center;
-  max-width: 400px;
+  max-width: 600px;
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
 
@@ -208,5 +230,21 @@ tr.hide { display: none; }
 
 #acceptButton:hover {
   background-color: var(--clr-text-dark);
+}
+
+@media (max-width: 768px) {
+  #popupContent th {
+    flex: 0 1 250px;
+    max-width: 250px;
+    min-width: 120px;
+  }
+}
+
+@media (max-width: 480px) {
+  #popupContent th {
+    flex: 0 1 200px;
+    max-width: 200px;
+    min-width: 100px;
+  }
 }
 
