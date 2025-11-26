@@ -30,14 +30,20 @@ h1 {
 input[type="text"] { 
     margin-bottom: 10px; 
     padding: 5px; 
-    width: 300px; 
+    width: 100%;
+    max-width: 300px;
     border-radius: var(--radius-pill);
     background-color: var(--clr-brown-wash-light);
+}
+
+.col-filter {
+  width: 100% !important;
 }
 table { border-collapse: collapse; width: 100%; }
 th, td { border: 1px solid var(--clr-border); padding: 8px; text-align: left; vertical-align: top; }
 th { background-color: var(--clr-green-header); }
 tr.hide { display: none; }
+
 
 #popup {
   display: none;
