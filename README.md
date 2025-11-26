@@ -20,7 +20,7 @@ When regenerating from a new dataset, only data.js gets replaced. All the other 
 I created a script to generate a new data file from a CSV.
 
 1. Export file as CSV from your spreadsheet software.
-2. Download the zipped folder from GitHub.
+2. Download this repository's zipped folder from GitHub.
 3. Inside the generator subfolder, double-click generator.html to open it in the browser.
 4. Upload the CSV.
 5. Save the data.js file produced.
