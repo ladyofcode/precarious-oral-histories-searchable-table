@@ -17,6 +17,7 @@ function showPopup(dataOrIndex) {
     "Assigned Submission Number": "ID",
     "Id": "ID",
     "Focus on first nations": "Focus on First Nations",
+    "Collection": "Collection name",
   };
 
   let tableHtml = "<h3>Full data</h3><table>";
@@ -28,9 +29,22 @@ function showPopup(dataOrIndex) {
     
     const displayKey = keyReplacements[key] || key;
     
-    const safeValue = String(value || '').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    let displayValue;
+    const linkFields = [
+      "Collection holder website",
+      "Link if collection is available online",
+      "Link to online catalogue/finding aid"
+    ];
     
-    tableHtml += `<tr><th>${displayKey}</th><td>${safeValue}</td></tr>`;
+    if (linkFields.includes(key)) {
+      const url = String(value || '').trim();
+      const safeUrl = url.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+      displayValue = `<a href="${safeUrl}" target="_blank" rel="noopener noreferrer">${safeUrl}</a>`;
+    } else {
+      displayValue = String(value || '').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    }
+    
+    tableHtml += `<tr><th>${displayKey}</th><td>${displayValue}</td></tr>`;
   }
   
   tableHtml += "</table>";
