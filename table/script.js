@@ -31,9 +31,7 @@ function showPopup(dataOrIndex) {
     
     let displayValue;
     const linkFields = [
-      "Collection holder website",
-      "Link if collection is available online",
-      "Link to online catalogue/finding aid"
+      "Collection holder website"
     ];
     
     if (linkFields.includes(key)) {
