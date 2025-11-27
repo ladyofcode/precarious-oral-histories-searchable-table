@@ -41,7 +41,7 @@ input[type="text"] {
   max-width: 80% !important;
   
 }
-table { border-collapse: collapse; width: 100%; }
+table { border-collapse: collapse; width: 100%; table-layout: auto; }
 th, td { border: 1px solid var(--clr-border); padding: 8px; text-align: left; vertical-align: top; }
 th { background-color: var(--clr-green-header); }
 tr.hide { display: none; }
@@ -145,6 +145,28 @@ tr.hide { display: none; }
 
 #dataTable thead th {
   background-color: var(--clr-green-header);
+  position: relative;
+}
+
+#dataTable thead th:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 4px;
+  height: 100%;
+  cursor: col-resize;
+  background-color: transparent;
+  z-index: 1;
+}
+
+#dataTable thead th:not(:last-child):hover::after,
+#dataTable thead th:not(:last-child).column-hover::after {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+#dataTable thead th.resizing::after {
+  background-color: rgba(0, 0, 0, 0.4);
 }
 
 #dataTable td:last-child,
@@ -154,6 +176,18 @@ tr.hide { display: none; }
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+
+#dataTable th:nth-child(1),
+#dataTable td:nth-child(1) {
+  max-width: 250px;
+}
+
+#dataTable th:nth-child(2),
+#dataTable td:nth-child(2),
+#dataTable th:nth-child(3),
+#dataTable td:nth-child(3) {
+  max-width: 300px;
 }
 
 #dataTable tbody td:nth-child(4),
