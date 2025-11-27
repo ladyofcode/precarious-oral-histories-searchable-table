@@ -38,6 +38,8 @@ input[type="text"] {
 
 .col-filter {
   width: 100% !important;
+  max-width: 80% !important;
+  
 }
 table { border-collapse: collapse; width: 100%; }
 th, td { border: 1px solid var(--clr-border); padding: 8px; text-align: left; vertical-align: top; }
